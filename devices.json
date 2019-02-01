@@ -6,5 +6,13 @@
         "maintainer_name": "JBCDroid",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=5175926",
         "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development"
+    },
+    {
+        "name": "Oneplus 5T",
+        "brand": "Oneplus",
+        "codename": "dumpling",
+        "maintainer_name": "EsromTech",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=4730968",
+        "xda_thread": "https://forum.xda-developers.com/oneplus-5t/development"
     }
 ]
