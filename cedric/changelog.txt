@@ -1,0 +1,5 @@
+- Compiled with clang 8.0.8
+- Device tree updates
+- Sources updates
+- New maintainer
+- Added option to enable/disable navbar

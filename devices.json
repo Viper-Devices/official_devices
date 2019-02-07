@@ -14,5 +14,13 @@
         "maintainer_name": "EsromTech",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=4730968",
         "xda_thread": "https://forum.xda-developers.com/oneplus-5t/development/rom-viperos-oneplus-5t-t3891623"
+    },
+    {
+        "name": "Moto G5",
+        "brand": "Motorola",
+        "codename": "cedric",
+        "maintainer_name": "HenriqueTc",
+        "maintainer_url": "https://t.me/Henriquetc",
+        "xda_thread": ""
     }
 ]
