@@ -1,0 +1,7 @@
+- new kernel
+- some kernel improvements made by Squid/sultran 
+- improvements in performance 
+- fixed access to netflix 
+- fixed some denials of sepolicy 
+- updated patch manufacturer
+ 
