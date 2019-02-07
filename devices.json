@@ -38,5 +38,13 @@
         "maintainer_name": " DarkAngelGR",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8065843",
         " xda_thread": "https://forum.xda-developers.com/redmi-4-prime/development/oficial-viperos-v5-1-markw-t3888751"
-    }
+    },
+   {
+        "name": "Moto G4 Play",
+        "brand": "Motorola",
+        "codename": "harpia",
+        "maintainer_name": "Allan Souza Ph",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8343393".
+        "xda_thread": "https://forum.xda-developers.com/g4-play/development/rom-viperos-6-0-t3891929"
+    } 
 ]
