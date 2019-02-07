@@ -16,11 +16,19 @@
         "xda_thread": "https://forum.xda-developers.com/oneplus-5t/development/rom-viperos-oneplus-5t-t3891623"
     },
     {
+        "name": "Moto G5",
+        "brand": "Motorola",
+        "codename": "cedric",
+        "maintainer_name": "HenriqueTc",
+        "maintainer_url": "https://t.me/Henriquetc",
+        "xda_thread": ""
+    },
+    {
         "name": "Xiaomi Redmi 4 Prime",
         "brand": " Xiaomi",
         "codename": " markw",
         "maintainer_name": " DarkAngelGR",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8065843",
         " xda_thread": "https://forum.xda-developers.com/redmi-4-prime/development/oficial-viperos-v5-1-markw-t3888751"
-    },
-    
+    }
+]
