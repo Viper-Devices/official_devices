@@ -70,16 +70,14 @@
 	"maintainer_name": "Shreejoy Dash",
 	"maintainer_url": "https://forum.xda-developers.com/member.php?u=8338700",
 	"xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-viper-os-6-0-pie-t3891876"
-    }, 
+    },
     {
-	     
         "name": "Redmi 4X",
         "brand": "Xiaomi",
         "codename": "santoni",
         "maintainer_name": "Bikram_M",
         "maintainer_url": "https://t.me/Bikram_M",
         "xda_thread": ""
-
     },   
     {
         "name": "Motorola G5 Plus",
@@ -88,5 +86,37 @@
         "maintainer_name": "thenewguyhere",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=6915949",
         "xda_thread": "https://forum.xda-developers.com/showthread.php?t=2588979"
+    },
+    {
+        "name": "Galaxy J5 LTE 2015",
+        "brand": "Samsung",
+        "codename": "j5lte",
+        "maintainer_name": "EsromTech",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=4730968",
+        "xda_thread": "https://forum.xda-developers.com/"
+    },
+    {
+        "name": "Galaxy J5 NFC 2015",
+        "brand": "Samsung",
+        "codename": "j5nlte",
+        "maintainer_name": "EsromTech",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=4730968",
+        "xda_thread": "https://forum.xda-developers.com/"
+    },
+    {
+        "name": "Galaxy J5 LTE CHN 2015",
+        "brand": "Samsung",
+        "codename": "j5ltechn",
+        "maintainer_name": "EsromTech",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=4730968",
+        "xda_thread": "https://forum.xda-developers.com/"
+    },
+    {
+        "name": "Galaxy J5 3G 2015",
+        "brand": "Samsung",
+        "codename": "j53gxx",
+        "maintainer_name": "EsromTech",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=4730968",
+        "xda_thread": "https://forum.xda-developers.com/"
     }
 ]
