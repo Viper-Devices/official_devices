@@ -1,0 +1,6 @@
+## OTA Changelog v6.1 ##
+- Fixed home button for wake device
+- Improviments for performance
+
+## OTA Changelog v6.0 ##
+- Initial build, check features initial
