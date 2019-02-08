@@ -8,6 +8,14 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development"
     },
     {
+        "name": "Asus Zenfone 3",
+        "brand": "Asus",
+        "codename": "zenfone3",
+        "maintainer_name": "Giovix92",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7023217",
+        "xda_thread": "https://forum.xda-developers.com/zenfone-3/development"
+    },
+    {
         "name": "Xiaomi Redmi Note 4",
         "brand": "Xiaomi",
         "codename": "mido",
