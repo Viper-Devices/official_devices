@@ -1,0 +1,3 @@
+Kernel upstreamed to .134
+Kernel compiled with DTC 9.0
+SELinux Enforced
