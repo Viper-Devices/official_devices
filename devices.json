@@ -61,5 +61,13 @@
 	"codename": "rolex/riva",
 	"maintainer_name": "Eko Sugiharto",
 	"maintainer_url": "https://forum.xda-developers.com/redmi-4a/development/rom-viperos-rom-redmi-4a-5a-t3896063",
+    },
+    {
+        "name": "Motorola G5 Plus",
+        "brand": "Motorola",
+        "codename": "potter",
+        "maintainer_name": "thenewguyhere",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6915949",
+        "xda_thread": "https://forum.xda-developers.com/showthread.php?t=2588979"
     }
 ]
