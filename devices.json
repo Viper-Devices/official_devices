@@ -61,5 +61,13 @@
 	"codename": "rolex/riva",
 	"maintainer_name": "Eko Sugiharto",
 	"maintainer_url": "https://forum.xda-developers.com/redmi-4a/development/rom-viperos-rom-redmi-4a-5a-t3896063",
-    }
+    },
+    {
+        "name": "Xiaomi Redmi 5",
+        "brand": "Xiaomi",
+	"codename": "rosy",
+	"maintainer_name": "Shreejoy Dash",
+	"maintainer_url": "https://forum.xda-developers.com/member.php?u=8338700",
+	"xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-viper-os-6-0-pie-t3891876"
+    }	
 ]
