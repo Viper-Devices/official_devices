@@ -32,6 +32,14 @@
         "xda_thread": ""
     },
     {
+        "name": "Moto G5S Plus",
+        "brand": "Motorola",
+        "codename": "sanders",
+        "maintainer_name": "marminino",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7926069",
+        "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-viperos-6-0-t3897059"
+    },
+    {
         "name": "Xiaomi Redmi 4 Prime",
         "brand": " Xiaomi",
         "codename": " markw",

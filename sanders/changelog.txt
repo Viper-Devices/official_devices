@@ -1,0 +1,9 @@
+## OTA Changelog v6.1 ##
+- New kernel
+- Kernel upstreamed to .134
+- Fix Camera focus
+- Add eis
+- Added DTV for Brazilian users
+
+## OTA Changelog v6.0 ##
+- Initial build
