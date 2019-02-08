@@ -8,6 +8,14 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development"
     },
     {
+        "name": "Xiaomi Redmi Note 4",
+        "brand": "Xiaomi",
+        "codename": "mido",
+        "maintainer_name": "Joshua_M",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8676415",
+        "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/"
+    },
+    {
         "name": "Oneplus 5T",
         "brand": "Oneplus",
         "codename": "dumpling",
