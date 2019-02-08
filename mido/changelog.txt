@@ -1,0 +1,7 @@
+ViperOS v6.1:
+
+- Added Dirac Audio
+- Added XiaomiDoze
+- Enabled AOD
+- SELinux Enforcing
+- Some minor Changes
