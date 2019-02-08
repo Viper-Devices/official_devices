@@ -60,8 +60,27 @@
         "brand": "Xiaomi",
 	"codename": "rolex/riva",
 	"maintainer_name": "Eko Sugiharto",
-	"maintainer_url": "https://forum.xda-developers.com/redmi-4a/development/rom-viperos-rom-redmi-4a-5a-t3896063",
+	"maintainer_url": "https://forum.xda-developers.com/member.php?u=9086777",
+	"xda_thread": "https://forum.xda-developers.com/redmi-4a/development/rom-viperos-rom-redmi-4a-5a-t3896063"
     },
+    {
+        "name": "Xiaomi Redmi 5",
+        "brand": "Xiaomi",
+	"codename": "rosy",
+	"maintainer_name": "Shreejoy Dash",
+	"maintainer_url": "https://forum.xda-developers.com/member.php?u=8338700",
+	"xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-viper-os-6-0-pie-t3891876"
+    }, 
+    {
+	     
+        "name": "Redmi 4X",
+        "brand": "Xiaomi",
+        "codename": "santoni",
+        "maintainer_name": "Bikram_M",
+        "maintainer_url": "https://t.me/Bikram_M",
+        "xda_thread": ""
+
+    },   
     {
         "name": "Motorola G5 Plus",
         "brand": "Motorola",
