@@ -150,5 +150,29 @@
         "maintainer_name": "imakhlaq",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7266535",
         "xda_thread": "https://forum.xda-developers.com/redmi-note-3/development/rom-viperos-aosvp-6-0-t3894172"
+    },
+    {
+        "name": "Phh-Treble Vanilla ARM A",
+        "brand": "Android",
+        "codename": "phhgsi_arm_a",
+        "maintainer_name": "peaktogoo",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9008281",
+        "xda_thread": "https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-viperos-v6-0-t3895410"
+    },
+    {
+        "name": "Phh-Treble Vanilla ARM64 A",
+        "brand": "Android",
+        "codename": "phhgsi_arm64_a",
+        "maintainer_name": "peaktogoo",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9008281",
+        "xda_thread": "https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-viperos-v6-0-t3895410"
+    },
+    {
+        "name": "Phh-Treble Vanilla ARM64 AB",
+        "brand": "Android",
+        "codename": "phhgsi_arm64_ab",
+        "maintainer_name": "peaktogoo",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9008281",
+        "xda_thread": "https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-viperos-v6-0-t3895410"
     }
 ]
