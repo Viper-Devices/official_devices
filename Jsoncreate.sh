@@ -52,6 +52,9 @@ url="https://master.dl.sourceforge.net/project/viper-project/$device/$zip_name"
 url_old=`cat ~/official_devices/$device/$device.json | grep https | cut -d '"' -f4`
 `sed -i "s|$url_old|$url|g" ~/official_devices/$device/$device.json`
 
+# copy changelog
+changelog=`cp ~/$sourcerom/out/target/product/$device/system/etc/Changelog.txt ~/official_devices/$device/changelog.txt`
+
 # add & push commit to github
 cd official_devices
 git add --all
@@ -59,7 +62,7 @@ git commit -m "$device: update $DAY"
 git push -f origin HEAD:pie
 cd ~
 rm -rf official_devices
-rm -rf Maintainers.sh
+rm -rf Jsoncreate.sh
 fi
 
 fi
