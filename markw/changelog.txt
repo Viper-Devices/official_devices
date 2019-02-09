@@ -1,0 +1,9 @@
+## OTA Changelog v6.1 ##
+- Rebased kernel to Nosgoth
+- Merge Security Patch
+- Fixed Night light
+
+
+
+## OTA Changelog v6.0 ##
+- Initial build, check features initial
