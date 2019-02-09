@@ -1,5 +1,5 @@
 {
-   "response": {
+   "response": [
     {
     "datetime": "Xxxxxxx"
     "filename": "viper-kenzo-201902XX-v6.1-OFFICIAL.zip"
@@ -9,7 +9,7 @@
     "url": "xxxxxxxxxxxxxxxx"
     "version": "v6.1"
     }
- }
+ ]
 }
    
     
