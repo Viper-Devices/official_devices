@@ -9,7 +9,7 @@ Guide for maintainers:-
 
 ```bash
 
-cd ~ && wget https://raw.githubusercontent.com/viper-devices/official_devices/pie/Jaoncreate.sh
+cd ~ && wget https://raw.githubusercontent.com/viper-devices/official_devices/pie/Jsoncreate.sh
 
 ```
 
