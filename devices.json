@@ -56,6 +56,14 @@
         "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-viperos-6-0-t3897059"
     },
     {
+        "name": "Moto G5S",
+        "brand": "Motorola",
+        "codename": "montana",
+        "maintainer_name": "nowbie",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9236081",
+        "xda_thread": "https://forum.xda-developers.com/moto-g5s/development/rom-viperos-v6-0-t3896522"
+    },
+    {
         "name": "Xiaomi Redmi 4 Prime",
         "brand": " Xiaomi",
         "codename": " markw",
