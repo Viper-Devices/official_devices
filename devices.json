@@ -245,5 +245,13 @@
 	"maintainer_name": "Vishal_Kumar",
 	"maintainer_url": "https://forum.xda-developers.com/member.php?u=8982606",
 	"xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-t3894813"
+    },
+    {	
+	"name": "Xiaomi Mi 8 Lite",
+	"brand": "Xiaomi",
+	"codename": "platina",
+	"maintainer_name": "Bruno_Rocha",
+	"maintainer_url": "https://forum.xda-developers.com/member.php?u=7752351",
+	"xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-viperos-xiaomi-mi8-lite-t3891689"
     }
 ]
