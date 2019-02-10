@@ -95,6 +95,13 @@
 	"maintainer_url": "https://forum.xda-developers.com/member.php?u=8338700",
 	"xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-viper-os-6-0-pie-t3891876"
     },
+    { "name": "Xiaomi Redmi 3s",
+      "brand": "Xiaomi",
+      "codename": "land",
+      "maintainer_name": "Sushant", 
+      "maintainer_url": "https://forum.xda-developers.com/member.php?u=6410370", 
+      "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-viper-os-6-0-oreo-t3892198"
+    },
     {
         "name": "Redmi 4X",
         "brand": "Xiaomi",

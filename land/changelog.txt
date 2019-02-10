@@ -1,0 +1,6 @@
+## OTA Changelog v6.1 ##
+- Februray Patch 
+- Fm radio Added
+- Live display, Reading mode fixed
+- flickering issue fixed
+- deepsleep fixed
