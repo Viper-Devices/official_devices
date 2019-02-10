@@ -245,5 +245,13 @@
 	"maintainer_name": "Vishal_Kumar",
 	"maintainer_url": "https://forum.xda-developers.com/member.php?u=8982606",
 	"xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-t3894813"
+    },
+    {
+        "name": "ZenFone Max Pro M1",
+        "brand": "Asus",
+        "codename": "X00T",
+        "maintainer_name": "travarilo",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6331651",
+        "xda_thread": ""
     }
 ]
