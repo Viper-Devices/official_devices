@@ -174,5 +174,53 @@
         "maintainer_name": "peaktogoo",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=9008281",
         "xda_thread": "https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-viperos-v6-0-t3895410"
+    },
+    {
+        "name": "Galaxy S5 LTE (G900AZ/F/M/R4/R7/T/V/W8,S902L)",
+        "brand": "Samsung",
+        "codename": "klte",
+        "maintainer_name": "Brunowp8",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
+        "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-9-0-0r30viperos-v6-0-klte-variants-t3893055"
+    },
+    {
+        "name": "Galaxy S5 LTE (G9006V/8V)",
+        "brand": "Samsung",
+        "codename": "kltechn",
+        "maintainer_name": "Brunowp8",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
+        "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-9-0-0r30viperos-v6-0-klte-variants-t3893055"
+    },
+    {
+        "name": "Galaxy S5 LTE Duos (G9006W/8W)",
+        "brand": "Samsung",
+        "codename": "kltechnduo",
+        "maintainer_name": "Brunowp8",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
+        "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-9-0-0r30viperos-v6-0-klte-variants-t3893055"
+    },
+    {
+        "name": "Galaxy S5 LTE Duos (G900FD/MD)",
+        "brand": "Samsung",
+        "codename": "klteduos",
+        "maintainer_name": "Brunowp8",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
+        "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-9-0-0r30viperos-v6-0-klte-variants-t3893055"
+    },
+    {
+        "name": "Galaxy S5 LTE (G900I/P)",
+        "brand": "Samsung",
+        "codename": "kltedv",
+        "maintainer_name": "Brunowp8",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
+        "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-9-0-0r30viperos-v6-0-klte-variants-t3893055"
+    },
+    {
+        "name": "Galaxy S5 LTE (G900K/L/S)",
+        "brand": "Samsung",
+        "codename": "kltekor",
+        "maintainer_name": "Brunowp8",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
+        "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-9-0-0r30viperos-v6-0-klte-variants-t3893055"
     }
 ]
