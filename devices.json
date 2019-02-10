@@ -174,5 +174,13 @@
         "maintainer_name": "peaktogoo",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=9008281",
         "xda_thread": "https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-viperos-v6-0-t3895410"
+    },
+    {
+	"name": "Lenovo ZUK Z2 Plus",
+	"brand": "Lenovo",
+	"codename": "z2_plus",
+	"maintainer_name": "Yash_Karande(cyproto)",
+	"maintainer_url": "https://forum.xda-developers.com/member.php?u=7067759",
+        "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-viperos-t3892866"
     }
 ]
