@@ -1,0 +1,10 @@
+## OTA Changelog v6.1 ##
+- Kernel upstream to 4.9.156
+- Updated to v10.0.4 Pie blobs (January Firmware is mandatory)
+- Fixed whatsapp camera thanks to @flex1911
+- Updated to OOS camera HALS
+- Updated sepolicy
+- Added basic USB HALS
+
+## OTA Changelog v6.0 ##
+- Initial Build
