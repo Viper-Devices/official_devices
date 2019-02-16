@@ -1,0 +1,5 @@
+Changelog 6.1:
+- Initial build Pie
+- Add Via Browser
+- Add Phonograph music player
+- Add support for Google camera
