@@ -1,0 +1,631 @@
+=======================
+     02-15-2019
+=======================
+
+
+   * device/qcom/sepolicy/
+cddb5d0 sepolicy: Label vendor.camera.hal1.packagelist
+
+   * device/xiaomi/wayne/
+39cc3dc add browser
+b304ded add music player
+056f4bf add apps and uptaded tree
+
+=======================
+     02-14-2019
+=======================
+
+
+   * device/xiaomi/sdm660-common/
+60a75a1 sdm660: XiaomiParts: Fix Dirac - Use a service
+
+   * kernel/xiaomi/sdm660/
+ca8ae50 sdm660: defconfig: enable wireguard
+3898052 net: import WireGuard version 0.0.20181218
+
+=======================
+     02-13-2019
+=======================
+
+
+=======================
+     02-12-2019
+=======================
+
+
+   * hardware/qcom/display-caf/apq8084/
+215f973 Make memtrack build with the VNDK.
+7676dca Add missing includes.
+bdf8b28 libmemtrack: Add open method for apq8084.memtrack
+a594015 display: Use generated kernel headers
+3ac0314 hal: Added LOCAL_VENDOR_MODULE to set output path of the binaries
+a04c97c Use header lib instead of using global include path
+
+   * hardware/qcom/media-caf/apq8084/
+0203123 Revert "media: Avoid collision with FFMPEG plugin"
+
+   * hardware/ril-caf/
+b475875 Encode the Number of MNC Digits in CellIdentity
+
+   * viper/manifest/
+c473b76 Make sources public for github
+
+=======================
+     02-11-2019
+=======================
+
+
+   * device/xiaomi/sdm660-common/
+53fdd60 sdm660: Update fingerprint to PQ2A.190205.002
+eca84f0 Revert "sdm660 : light hal : do not detect maximum brightness dynamically"
+
+   * device/xiaomi/wayne/
+94fd8dc wayne: Move Build Fingerprint to sdm660-common
+9a46170 wayne: Support Alipay fingerprint payment
+
+   * external/chromium-webview/
+fbc003a Update x86/x64 Chromium Webviews to 71.0.3578.99
+
+   * hardware/qcom/wlan-caf/
+9a9fda5 wcnss-service: Opt-in to disable copying WCNSS_qcom_cfg.ini to userdata
+
+   * kernel/xiaomi/sdm660/
+7a70b0d LA.UM.7.2.r1-05900
+09bef1c Merge branch 'mkp' of https://github.com/GuaiYiHu/android_kernel_xiaomi_whyred into redo
+d0746cb Merge branch 'kernel.lnx.4.4.r34-rel' of https://github.com/android-linux-stable/msm-4.4 into redo
+ec2499e Merge tag 'LA.UM.7.2.r1-05900-sdm660.0' of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qcacld-3.0 into redo "LA.UM.7.2.r1-05900-sdm660.0"
+55f2b68 Merge tag 'LA.UM.7.2.r1-05900-sdm660.0' of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/fw-api into redo
+f1918e8 Merge tag 'LA.UM.7.2.r1-05900-sdm660.0' of https://source.codeaurora.org/quic/la/kernel/msm-4.4 into redo "LA.UM.7.2.r1-05900-sdm660.0"
+
+   * vendor/xiaomi/wayne/
+0eef252 wayne: add missing thermal config files from miui
+
+=======================
+     02-10-2019
+=======================
+
+
+=======================
+     02-09-2019
+=======================
+
+
+   * device/qcom/sepolicy-legacy/
+e1238b4 Display: Remove vendor property context for lcd density
+
+   * hardware/broadcom/libbt/
+0919027 libbt: Align Samsung CID strings to those created by macloader
+
+=======================
+     02-08-2019
+=======================
+
+
+   * device/qcom/sepolicy-legacy/
+f6d960e legacy: Label some more sysfs_net
+
+   * hardware/qcom/media-caf/apq8084/
+fd36f77 media: Use generated kernel headers
+3fe787a Add -Wno-error to compile with global -Werror.
+4cc25ca Build libstagefrighthw with BOARD_VNDK_VERSION
+4a86c80 Build libc2dcolorconvert with BOARD_VNDK_VERSION
+ea15be0 Build mm-video-v4l2 with BOARD_VNDK_VERSION
+a901ed3 mm-video-v4l2: Fix KW resported issues
+
+   * kernel/xiaomi/sdm660/
+1ca0c53 Merge 4.4.174 into kernel.lnx.4.4.r34-rel
+dc5e8c9 Linux 4.4.174
+60c7f8f rcu: Force boolean subscript for expedited stall warnings
+873beab3 net: ipv4: do not handle duplicate fragments as overlapping
+0836bdf net: fix pskb_trim_rcsum_slow() with odd trim offset
+e92b847 inet: frags: better deal with smp races
+acd00a0 ipv4: frags: precedence bug in ip_expire()
+cb5fd4a ip: frags: fix crash in ip_do_fragment()
+2822475 ip: process in-order fragments efficiently
+2039bd8 ip: add helpers to process in-order fragments faster.
+3f78a3f ip: use rb trees for IP frag queue.
+7fab8b2 net: pskb_trim_rcsum() and CHECKSUM_COMPLETE are friends
+5f2d68b ipv6: defrag: drop non-last frags smaller than min mtu
+26cfea3 net: modify skb_rbtree_purge to return the truesize of all purged skbs.
+ef0f963 ip: discard IPv4 datagrams with overlapping segments.
+bf40801 inet: frags: fix ip6frag_low_thresh boundary
+826ff79 inet: frags: get rid of ipfrag_skb_cb/FRAG_CB
+29ff723 inet: frags: reorganize struct netns_frags
+3399001 rhashtable: reorganize struct rhashtable layout
+bf81873 ipv6: frags: rewrite ip6_expire_frag_queue()
+f925a29 inet: frags: do not clone skb in ip_expire()
+567ef05 inet: frags: break the 2GB limit for frags storage
+50fc089 inet: frags: remove inet_frag_maybe_warn_overflow()
+b047c79 inet: frags: get rif of inet_frag_evicting()
+cf2b9e6 inet: frags: remove some helpers
+f67b17c ipfrag: really prevent allocation on netns exit
+24641fb net: ieee802154: 6lowpan: fix frag reassembly
+4931071 inet: frags: use rhashtables for reassembly units
+bf5ea30 rhashtable: add schedule points
+9e5f4d0 rhashtable: Add rhashtable_lookup()
+8295999 rhashtable: add rhashtable_lookup_get_insert_key()
+a7fb573 inet: frags: refactor lowpan_net_frag_init()
+705e71e inet: frags: refactor ipv6_frag_init()
+8c639ca inet: frags: refactor ipfrag_init()
+9c6727d inet: frags: add a pointer to struct netns_frags
+5eb2471 inet: frags: change inet_frags_init_net() return value
+25cbc91 Revert "qcacld-3.0: Add bound check for fixed_param->total_num_tx_power_levels"
+83b10b9 Merge tag 'LA.UM.7.2.r1-05900-sdm660.0' of https://source.codeaurora.org/quic/la/kernel/msm-4.4 into mkp
+a744efb Merge tag '8438014d5ac3f0d1e960517d4de8b56b062963b9' into mkp
+59ff733 Merge tag '50cbd0fcbad02dc8e31529066c4608fd6a143cf7' into mkp
+
+   * viper/manifest/
+c7aba42 Track devicesettings
+
+=======================
+     02-07-2019
+=======================
+
+
+   * hardware/lineage/livedisplay/
+781eb9d livedisplay: sysfs: Remove unused HALs
+8475e6c livedisplay: sysfs: Add LineageOS copyrights
+733de0b livedisplay: sysfs: Add autogenerated code
+62d6ecd livedisplay: sdm: Fix restoring default mode
+36ab575 livedisplay: sdm: Fix isSupported() checks
+d4eb8a8 livedisplay: The module isn't proprietary
+0d26b6b livedisplay: Nuke color balance
+d421085 livedisplay: Minor code cleanup
+950336a livedisplay: Fix racy init
+
+   * kernel/xiaomi/sdm660/
+ba02999 Merge tag 'LA.UM.7.2.r1-05900-sdm660.0' into kernel.lnx.4.4.r34-rel
+
+=======================
+     02-06-2019
+=======================
+
+   * art/
+f443eb4 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * bionic/
+fb2f26c Merge tag 'android-9.0.0_r31' into pie
+
+   * bootable/recovery/
+e61adcc Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * build/kati/
+e1ae0f6 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * build/make/
+bb73ba9 Merge tag 'android-9.0.0_r31' into pie
+
+   * dalvik/
+a879c37 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * development/
+86865ad Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * device/xiaomi/sdm660-common/
+240319a sdm660: KCal: Add valueinput by keyboard
+
+   * external/f2fs-tools/
+f2dba35 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * external/skia/
+afc6528 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * frameworks/av/
+68cfab1 Merge tag 'android-9.0.0_r31' into pie
+
+   * frameworks/base/
+256def8 Merge tag 'android-9.0.0_r31' into pie
+2809784 Add Viper nougat colors accents (01/03)
+c6a71d8 Fix Fruity Pebbles v2.0
+bf27b63 base: add Trust usb restrictor
+2297e56 SystemUI: Add onStatusBarMotionEvent hook
+5b863b3 Visualizer: fix native crash when visualizer release
+
+   * frameworks/native/
+f1345ff Merge tag 'android-9.0.0_r31' into pie
+
+   * frameworks/opt/net/wifi/
+9992063 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * frameworks/opt/telephony/
+dc96f18 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * hardware/interfaces/
+be21c6c Merge tag 'android-9.0.0_r31' into pie
+
+   * hardware/nxp/nfc/
+ec3b549 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * hardware/qcom/audio/default/
+8050568 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * hardware/qcom/bootctrl/
+a1d491d Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * hardware/qcom/gps/
+5dc7ab4 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * hardware/qcom/media/
+a316b4c Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * hardware/qcom/sdm845/gps/
+236e6c3 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * hardware/ril/
+8f3b236 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * kernel/xiaomi/sdm660/
+91c5340 Merge 4.4.173 into kernel.lnx.4.4.r34-rel
+343f981 Linux 4.4.173
+1692595 fs: don't scan the inode cache before SB_BORN is set
+57d8138 mm: migrate: don't rely on __PageMovable() of newpage after unlocking it
+a51bbfe drivers: core: Remove glue dirs from sysfs earlier
+8f51e79 cifs: Always resolve hostname before reconnecting
+c3ef8a4 mm, oom: fix use-after-free in oom_kill_process
+e790eea kernel/exit.c: release ptraced tasks before zap_pid_ns_processes
+3027ecc mmc: sdhci-iproc: handle mmc_of_parse() errors during probe
+86a395c platform/x86: asus-nb-wmi: Drop mapping of 0x33 and 0x34 scan codes
+5d0868d platform/x86: asus-nb-wmi: Map 0x35 to KEY_SCREENLOCK
+970e5c2 gfs2: Revert "Fix loop in gfs2_rbm_find"
+7685bb0 arm64: hyp-stub: Forbid kprobing of the hyp-stub
+1472585 ARM: cns3xxx: Fix writing to wrong PCI config registers after alignment
+e31a6a9 fs/dcache: Fix incorrect nr_dentry_unused accounting in shrink_dcache_sb()
+600c4bd CIFS: Do not count -ENODATA as failure for query directory
+245426d l2tp: fix reading optional fields of L2TPv3
+f5f5d31 l2tp: remove l2specific_len dependency in l2tp_core
+3154a8a ucc_geth: Reset BQL queue when stopping device
+8034f36 net/rose: fix NULL ax25_cb kernel panic
+ce29e8a netrom: switch to sock timer API
+265f211 net/mlx4_core: Add masking for a few queries on HCA caps
+a0d1b4a l2tp: copy 4 more bytes to linear part if necessary
+f9b9a8e ipv6: Consider sk_bound_dev_if when binding a socket to an address
+fb0c332 fs: add the fsnotify call to vfs_iter_write
+dda2017 s390/smp: Fix calling smp_call_ipl_cpu() from ipl CPU
+e1e584b Revert "loop: Fold __loop_release into loop_release"
+f1f952b Revert "loop: Get rid of loop_index_mutex"
+55bbe71 Revert "loop: Fix double mutex_unlock(&loop_ctl_mutex) in loop_control_ioctl()"
+896354c f2fs: read page index before freeing
+029b5be arm64: mm: remove page_mapping check in __sync_icache_dcache
+1b284d7 irqchip/gic-v3-its: Align PCI Multi-MSI allocation on their size
+2cbf0a6 perf unwind: Take pgoff into account when reporting elf to libdwfl
+38155e1 perf unwind: Unwind with libdw doesn't take symfs into account
+6a923fc vt: invoke notifier on screen size change
+8781bfd can: bcm: check timer values before ktime conversion
+17cb939 can: dev: __can_get_echo_skb(): fix bogous check for non-existing skb by removing it
+5efadf3 x86/kaslr: Fix incorrect i8254 outb() parameters
+43473a6 KVM: x86: Fix single-step debugging
+74d609f Input: xpad - add support for SteelSeries Stratus Duo
+278541a CIFS: Fix possible hang during async MTU reads and writes
+8db4fe2 tty/n_hdlc: fix __might_sleep warning
+fe88138 tty: Handle problem if line discipline does not have receive_buf
+b6a23bd staging: rtl8188eu: Add device code for D-Link DWA-121 rev B1
+29f7c74 char/mwave: fix potential Spectre v1 vulnerability
+86dd006 s390/smp: fix CPU hotplug deadlock with CPU rescan
+74be2fc s390/early: improve machine detection
+c25a126 ARC: perf: map generic branches to correct hardware condition
+d9084840 ASoC: atom: fix a missing check of snd_pcm_lib_malloc_pages
+437f0e4 USB: serial: pl2303: add new PID to support PL2303TB
+1d8dfed USB: serial: simple: add Motorola Tetra TPG2200 device id
+e98f787 net: bridge: Fix ethernet header pointer before check skb forwardable
+749cbfc net_sched: refetch skb protocol for each filter
+289992e net: ipv4: Fix memory leak in network namespace dismantle
+e5c13a9 openvswitch: Avoid OOB read when parsing flow nlattrs
+52a30a6e net: Fix usage of pskb_trim_rcsum
+87fd25b Merge commit '4f65bdd3013497db667c1950b43ac8e4d1da2f78' into mkp
+ba31599 add toggle for disabling newly added USB devices
+32d0276 sched: hmp: Reduce number of load reports in a window
+8825ad6 sched: cpufreq: HMP load reporting changes
+2e92939 core_ctl: Consider high irq loaded CPU as busy
+704d29e PM / devfreq: memlat: Don't ignore extremely latency sensitive workloads
+d734496 Revert "msm: kgsl: Do not memset pages to zero while adding to pool"
+0812e68 mfd: wcd9xxx: disable slimbus register access for debugfs
+a21361c msm_cci: fix inconsistent mutex_lock
+d3d2e65 msm: memshare: relaese mutex if req client id is not found
+8cbe1c9 thermal: qpnp-adc-tm: release lock upon disable_chan_meas failure
+9378a51 qcom: qmi: release mutex upon qmi_svc_event_notifier_register error
+c8c647b i2c-msm-v2: allow i2c_adapter to retry on arbitration lost
+a4ed601 msm_thermal: initialize later than arch drivers
+e456d85 Revert "serial: msm_serial_hs: Protect spurious irqs after wakeup irq enablement"
+92f83fd pinctrl: qcom: Add irq_enable callback for msm gpio
+7884c54 msm: kgsl: Stop slab shrinker when no more pages can be reclaimed
+4dac84c Revert "f_fs: set maxburst to one before enabling endpoints"
+08df6f4 dwc3: resize txfifo of IN/INT endpoint before enabling it
+3be340e Revert "USB: set hub's default autosuspend delay as 0"
+60b4352 Revert "usb: hub: Prevent hub autosuspend if usbcore.autosuspend is -1"
+4723e5e BACKPORT: usb: host: plat: Enable xHCI plat runtime PM
+e684171 ASoC: msm: q6dspv2: vote for Glink Rx thread priority upgrade
+fa53ee8 soc: q6dspv2: add api to vote for upgrading thread priority
+
+   * lineage-sdk/
+44681d9 Add emergency power menu constant
+
+   * packages/apps/Bluetooth/
+b25a585 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/apps/Camera2/
+1353931 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/apps/CarrierConfig/
+240fe89 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/apps/CellBroadcastReceiver/
+e4439ca Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/apps/CertInstaller/
+f5f144b Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/apps/Contacts/
+5136049 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/apps/DeskClock/
+30c9100 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/apps/DocumentsUI/
+d945fdf Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/apps/Email/
+e3e6551 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/apps/EmergencyInfo/
+945e797 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/apps/KeyChain/
+beb9b46 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/apps/ManagedProvisioning/
+6328a99 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/apps/Nfc/
+9219cd7 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/apps/PackageInstaller/
+b6f5c29 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/apps/PhoneCommon/
+c815455 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/apps/Settings/
+2722329 Merge tag 'android-9.0.0_r31' into pie
+
+   * packages/apps/Snap/
+c8c7085 Snap: make support for bokeh mode configurable per device
+
+   * packages/apps/Stk/
+42bdef6 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/apps/StorageManager/
+41a18ac Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/apps/TvSettings/
+eb9b2f3 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/apps/UnifiedEmail/
+84b7ce0 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/inputmethods/LatinIME/
+5ffe028 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/providers/ContactsProvider/
+09c216f Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/providers/DownloadProvider/
+f443f24 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/providers/MediaProvider/
+9072294 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/providers/TelephonyProvider/
+8f71026 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/providers/TvProvider/
+9989e28 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/screensavers/PhotoTable/
+6136119 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/services/BuiltInPrintService/
+a42c960 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/services/Telecomm/
+30f01ff Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * packages/services/Telephony/
+97fbb72 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * system/bt/
+202d95a Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * system/core/
+17c4b7d Merge tag 'android-9.0.0_r31' into pie
+
+   * system/extras/
+c541ffc Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * system/netd/
+ccc0d8d Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * system/security/
+b952db0 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * system/sepolicy/
+b79587f Merge tag 'android-9.0.0_r31' into pie
+
+   * system/update_engine/
+8d95962 Merge tag 'android-9.0.0_r31' into lineage-16.0-android-9.0.0_r31
+
+   * system/vold/
+40bb382 Merge tag 'android-9.0.0_r31' into pie
+
+   * vendor/themes/
+f4080fc Add Viper nougat colors accents (03/03)
+
+   * vendor/viper/
+93f3153 qcom: Mark some gralloc bits as valid
+975ed96 privapp-permissions: Remove org.lineageos.trebuchet permissions
+233a900 privapp-permissions: Add new launcher3 permissions
+
+   * viper/manifest/
+a3268c6 manifest: android-9.0.0_r30 -> android-9.0.0_r31
+
+=======================
+     02-05-2019
+=======================
+
+
+   * build/make/
+0f86d00 build: Fix changelog generation logic
+f1fcc58 Rename changelog file
+05bb2d6 Makefile: Changelog bringup
+
+   * device/lineage/sepolicy/
+d65286b sepolicies: add Trust hal
+2c4b7ad common: Migrate to livedisplay 2.0
+7209a33 common: Add vendor.lineage.touch rules
+b93c72f lineage: Rewrite Lineage Power HAL rules
+2ef7a56 lineage: Properly write rules for Lineage LiveDisplay as a HAL
+63b617e sepolicy: Allow recovery update_engine to setexec backuptool
+059ae60 sepolicy: Allow Settings to read ro.vendor.build.security_patch
+
+   * device/xiaomi/sdm660-common/
+3f6e312 sdm660: KCal: Add Presets * Checked out from https://github.com/sayan7848/android_device_xiaomi_msm8953-common/commit/8733afd40882b9db424317376cca648f144116d8
+a243276 sdm660: KCal: Introduce presets
+2f0102a sdm660: overlay: Show HD VoLTE Icon
+d96c7f5 Revert "sdm660: remove swipe gestures its handled in xiaomi parts now"
+aba8706 sdm660: Move Build Fingerprint to sdm660-common
+a5f02e3 sdm660: enable usb debugging at boot
+ec842d0 sdm660: Support Alipay fingerprint payment
+4f395e4 sdm660: Update GPS configs from Mi8 Lite
+
+   * device/xiaomi/wayne/
+80af672 wayne: Add Initial support for dirac
+ee5727d wayne: use pixel 2 xl build fingerprint
+5104b49 wayne: Give light sensor some time to warm up
+2499fb6 wayne: audio: increase incall volume
+9031f16 wayne: brightness overlay updates from stock
+
+   * frameworks/av/
+e12c232 Visualizer: fix native crash when visualizer release
+
+   * lineage-sdk/
+36312aa LineageSettingsProvider: Fix migration of FORCE_SHOW_NAVBAR
+99b16c5 sdk: add Trust usb restrictor
+bf39b0d PerformanceManager: Allow wait for MPCTL to start on boot
+d68e30e LiveDisplayService: Catch NPE before LiveDisplayConfig is initialized
+224ad38 LineageAudioService: Make audio session broadcast explicit
+a2c64e0 sdk: Add HIDL compat in LineageHardwareManager
+eaf1fc6 sdk: Deprecate some unused lineagehw features
+
+   * packages/apps/Messaging/
+40c8755 Switch to JobIntentService
+7d378ea Messaging: improve notification channels
+
+   * packages/apps/Settings/
+6a4acf1 Add Viper nougat colors accents (02/03)
+
+   * vendor/viper/
+d5c2f3e Changelog bringup
+
+   * vendor/xiaomi/wayne/
+a51a3f0 wayne: Update perf blobs from Mi8 Lite
+9812e12 wayne: Update SDM blobs from LA.UM.7.4.r1-04100-8x98.0
+d1ecb02 wayne: Add missing blobs for sound trigger
+e6fc51f wayne: Add perf profile
+909c7fd wayne: Add missing blobs for sound trigger
+b0beaf3 wayne: Add Alipay fingerprint payment blobs
+041d0e5 wayne: Add dirac blobs
+
+   * viper/manifest/
+e7156d9 Track hardware livedisplay
+
+=======================
+     02-04-2019
+=======================
+
+
+   * device/xiaomi/sdm660-common/
+5b03ec4 sdm660: XiaomiParts: Add Dirac - Add Dirac(Sound Enhancer) - Clean up
+9d55b42 sdm660: fix typo in init.spectrum.rc file
+
+   * frameworks/base/
+e1cbff7 Utils: Introduce method to determine countries that use Fahrenheit
+
+   * hardware/lineage/interfaces/
+c6e0e42 trust: create service
+4b1c700 interfaces: Add trust 1.0 HAL
+73c5a16 interfaces: Add touch HIDL interface definitions
+47208dd interfaces: Add 2.0 livedisplay interfaces
+
+   * hardware/lineage/livedisplay/
+75ac2f2 livedisplay: Use 1 thread
+7a5da24 livedisplay: sdm: Wire it up
+2667bbd livedisplay: sdm: Remove unused HALs
+ce53d14 livedisplay: legacymm: Wire it up
+
+   * packages/apps/Settings/
+6f10dd9 Battery temp: Use MCC to determine the scale type
+1b795dc Themes: Convert sync icons to vector so they theme correctly
+fa77298 Power detail pages: Finish off the rest of the icon tinting
+0068f12 Settings: fix icon tinting in power detail pages
+df0daca Fix white text on light accents switch bar theme issue
+
+=======================
+     02-03-2019
+=======================
+
+
+   * device/qcom/sepolicy/
+f30e936 sepolicy: Whitelist vold from reading mnt_vendor_file
+
+   * hardware/lineage/livedisplay/
+c6e1c35 livedisplay: legacymm: Remove unused HALs
+d723625 livedisplay: Add clang-format from hardware/interfaces
+
+   * hardware/qcom/audio-caf/msm8996/
+d2dfc74 hal: spkr_protection: compilation error fixes with the vndk
+
+   * hardware/qcom/media-caf/msm8952/
+c108ce3 mm-video-v4l2: C++11 requires a space between literal and string macro
+b9af12c mm-video-v4l2: Compilation warning fixes
+44b85bb libstagefrighthw: Compilation warning fixes
+8d79102 libc2dcolorconvert: Compilation warning fixes
+
+=======================
+     02-02-2019
+=======================
+
+
+   * device/qcom/sepolicy-legacy/
+8d40ce9 common: Allow webview_zygote to read /dev/ion
+
+   * frameworks/base/
+2b80f9e Utils: Add method to determine battery temp
+1a0b424 Dark theme: Fix notification channel info text color
+74c8fb5 DefaultPermissionGrantPolicy: grant Google sounds picker storage perms
+7898654 Core: Fix setupwizard FC
+1ef5ab2 Allow chromium to sign in
+196ee86 Fix Fi permissions
+fd6131e Fix Android GApps permisions which were causing F/C
+
+   * packages/apps/Settings/
+b54904c AmbientDisplay: Add custom pref for devices with custom doze packages
+187393e Battery temp: Ensure preference is updated
+a44ca05 Battery stats: Display battery temperature
+0716ca7 Open advanced power usage summary on header click of battery
+10db6f3 Fix Add big circle battery to inherited styles
+ee484fd Fix Inherit battery meter style in view
+c380c4d Show full /proc/version information
+
+   * packages/apps/Venom/
+588b257 [Squash] Add font manager
+
+   * packages/apps/ViperOTA/
+a121c08 More theme updates
+
+   * vendor/themes/
+2188790 ViperFonts: Add more font packs
+44be903 Add Viper font package [1/2]
+
+   * vendor/viper/
+b5699ae vendor: build: Generate json file with zip info after build
+d8c1fac Add Viper font package [2/2]
+
