@@ -1,0 +1,6 @@
+## OTA Changelog v6.1 ##
+
+- Update all source ROM ViperOS
+- Introduced new kernel upstreamed to 4.9
+- Added Vlote Logo
+- Added Improvement Tweaks
