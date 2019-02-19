@@ -231,6 +231,14 @@
         "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-9-0-0r30viperos-v6-0-klte-variants-t3893055"
     },
     {
+        "name": "Galaxy S7 edge (G935F/S/K/L/W8)",
+        "brand": "Samsung",
+        "codename": "hero2lte",
+        "maintainer_name": "DeveloperLuke",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7166349",
+        "xda_thread": "https://forum.xda-developers.com/s7-edge/development/9-0-viper-os-t3901902"
+    },
+    {
 	"name": "Lenovo ZUK Z2 Plus",
 	"brand": "Lenovo",
 	"codename": "z2_plus",
