@@ -261,7 +261,7 @@
 	"maintainer_name": "Bruno_Rocha",
 	"maintainer_url": "https://forum.xda-developers.com/member.php?u=7752351",
 	"xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-viperos-xiaomi-mi8-lite-t3891689"
-	},
+    },
     {	
 	"name": "J7 Prime",
 	"brand": "Samsung",
@@ -269,5 +269,5 @@
 	"maintainer_name": "pennywise96",
 	"maintainer_url": "https://forum.xda-developers.com/member.php?u=9535501",
 	"xda_thread": "https://forum.xda-developers.com/galaxy-j7/help/rom-viperos-v6-0-t3894179"
-    }
+     }
 ]
