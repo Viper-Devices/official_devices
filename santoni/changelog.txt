@@ -1,3 +1,3 @@
 ## OTA Changelog v6.1 ##
-- Februray Security Patch
-- Rockstar Kernel V5 Upstream 3.18.134
+- Fixed FM Radio
+- Wolf Kernel V6.0 Upstream 3.18.134
