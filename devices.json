@@ -239,6 +239,14 @@
         "xda_thread": "https://forum.xda-developers.com/s7-edge/development/9-0-viper-os-t3901902"
     },
     {
+        "name": "Galaxy S7 (G930F/S/K/L/W8)",
+        "brand": "Samsung",
+        "codename": "herolte",
+        "maintainer_name": "DeveloperLuke",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7166349",
+        "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/9-0-viperos-t3902922"
+    },
+    {
 	"name": "Lenovo ZUK Z2 Plus",
 	"brand": "Lenovo",
 	"codename": "z2_plus",

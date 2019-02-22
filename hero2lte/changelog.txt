@@ -1,2 +1,5 @@
+## 21-02-19 ##
+- Upstreamed kernel to 3.18.135
+
 ## OTA Changelog v6.1 ##
 - Initial build
