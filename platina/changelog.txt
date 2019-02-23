@@ -1,5 +1,4 @@
--Fixed sound crashs;
--Fixed Youtube lags;
--API2 enabled by default;
--GCAM Frontal fix included;
--Removed XiaomiParts for now;
+- Adjust statusbar icons padding;
+- Adjust statusbar icons in lockscreen;
+- Update vibration pattern from Pixel3;
+- Fit notch as perfect statusbar size.
