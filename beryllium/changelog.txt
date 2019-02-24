@@ -1,0 +1,4 @@
+Dirac added
+Statusbar padding fixed
+Kernel upstreamed
+HDR mode fixed
