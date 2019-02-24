@@ -285,13 +285,21 @@
 	"maintainer_name": "pennywise96",
 	"maintainer_url": "https://forum.xda-developers.com/member.php?u=9535501",
 	"xda_thread": "https://forum.xda-developers.com/galaxy-j7/help/rom-viperos-v6-0-t3894179"
-     },
-     {
-        "name": "F1",
-        "brand": "POCO",
-        "codename": "beryllium",
-        "maintainer_name": "thenewguyhere",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6915949",
-        "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-viperos-6-1-9-0-t3901929"
-     }
+    },
+    {
+      "name":"Redmi note 6 pro",
+      "brand":"Xiaomi",
+      "codename":"tulip",
+      "maintainer_name":"theorganisms (SouravGope)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=9106315",
+      "xda_thread":"https://forum.xda-developers.com/redmi-note-6-pro/development/rom-t3903533"
+    },
+    {
+      "name": "F1",
+      "brand": "POCO",
+      "codename": "beryllium",
+      "maintainer_name": "thenewguyhere",
+      "maintainer_url": "https://forum.xda-developers.com/member.php?u=6915949",
+      "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-viperos-6-1-9-0-t3901929"
+    }
 ]
