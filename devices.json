@@ -1,11 +1,11 @@
 [
     {
-        "name": "Xiaomi Redmi Note 5",
+        "name": "Xiaomi Redmi Note 5/Pro",
         "brand": "Xiaomi",
         "codename": "whyred",
-        "maintainer_name": "JBCDroid",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=5175926",
-        "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development"
+        "maintainer_name": "Abhishek Singh",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8386921",
+        "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/romwhyred-viper-os-6-0-pie-t3893451"
     },
     {
         "name": "Asus Zenfone 3",
