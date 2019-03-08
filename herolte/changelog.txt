@@ -1,2 +1,6 @@
+## OTA Changelog v6.2 ##
+- Upstreamed kernel to 3.18.136
+- Merged XXU3ERL3 Samsung Kernel Source
+
 ## OTA Changelog v6.1 ##
 - Initial build
