@@ -1,3 +1,5 @@
-Kernel upstreamed to .134
-Kernel compiled with DTC 9.0
-SELinux Enforced
+OTA Changelog v6.2
+
+-Optimus Drunk (3.18.136)
+-SELinux Enforcing
+-Compiled with Clang 8.0.9
