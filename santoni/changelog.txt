@@ -1,3 +1,20 @@
-## OTA Changelog v6.1 ##
-- Fixed FM Radio
-- Wolf Kernel V6.0 Upstream 3.18.134
+## OTA Changelog v6.2 ##
+- Update sources base
+- Update March security patch
+- Added VoLTE icon toggle
+- Moved hide statusbar from Statubar tab to Lockscreen tab
+- Added Fingerprint Authentication Vibration
+- Added QS Screenshot Full and Parcial
+- Fixed missing AppOps
+- Several improvements in themes
+- Added Pulse options (nav bar)
+- Added Ambient Music ticker 
+- Merged WFD qcom Miracast resource from Lineage
+- Added VPapers new (thanks jahirfiquitiva by Frames app source)
+- Added styles for switch
+- Added styles for the clock on the lock screen
+
+Device changes: 
+- Default kernel:wolf Upstream 3.18.136
+- Dirac Added (Thanks @beingstargazer)
+- Night Light again fixed (thanks @HarukeyUA)
