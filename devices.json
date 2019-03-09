@@ -2,6 +2,14 @@
     {
         "name": "Xiaomi Redmi Note 5/Pro",
         "brand": "Xiaomi",
+        "codename": "vince",
+        "maintainer_name": "Shantanu Singh",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7284063",
+        "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/rom-viper-os-6-1-t3901878"
+    },
+    {
+        "name": "Xiaomi Redmi Note 5/Pro",
+        "brand": "Xiaomi",
         "codename": "whyred",
         "maintainer_name": "Abhishek Singh",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8386921",
