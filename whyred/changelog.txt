@@ -1,18 +1,20 @@
 ======================
-     23-Feb-2019
+     09-March-2019
 ======================
-- Fixed Charging Led
-- Compiled with Derp kernel 4.8
-- Updated base source
-- Security Patch 2019-02
-- Introduced the OTA service
-- OTA follow ROM theme
-- New theme for system
-- News colors accents from Viper Nougat
-- Rebased Venom base ABC Settings and added new style used Blankeer library (thanks Blankeer)
-- Added QS for Reboot/Recovery
-- Fixed FC in Apps and Notifications when you click Notifications
-- New dialog Rom version
-- Added kernel version extended in dialog Android Version
-- Added Background of Settings with Viper Logo
-- Launcher now follow the ROM theme.
+- Initial official build
+- Compiled with Derp kernel 5.0
+- Built with clang 9.0.1 
+- Update sources base
+- Update March security patch
+- Added VoLTE icon toggle
+- Moved hide statusbar from Statusbar tab to Lockscreen tab
+- Added Fingerprint Authentication Vibration
+- Added QS Screenshot Full and Parcial
+- Fixed missing AppOps
+- Several improvements in themes
+- Added Pulse options (nav bar)
+- Added Ambient Music ticker 
+- Merged WFD qcom Miracast resource from Lineage
+- Added VPapers new (thanks jahirfiquitiva by Frames app source)
+- Added styles for switch
+- Added styles for the clock on the lock screen
