@@ -1,4 +1,2 @@
-Dirac added
-Statusbar padding fixed
-Kernel upstreamed
-HDR mode fixed
+Kernel updated
+Option to hide notch available under display settings
