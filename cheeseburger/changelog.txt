@@ -1,4 +1,16 @@
-## OTA Changelog v6.1 ##
+=============
+OTA Changelog v6.2
+
+- Kernel upstreamed 4.4.176 Rattlesnake-v0.7
+- Builded with CLang 8.0.9
+- Update blobs firmware stable 9.0.4
+- Fixed props missing for WFD miracast
+- Added support to AOD
+=============
+
+=============
+OTA Changelog v6.1
+
 - Update all source ROM ViperOS
 - Introduced new kernel upstreamed Rattlesnake-0.4 4.4.173
 - Builded with Clang 8.0.8
@@ -9,6 +21,10 @@
 - VoLTE improvements
 - Added ARCore
 - Added qti telephony services
+=============
 
-## OTA Changelog v6.0 ##
+=============
+OTA Changelog v6.0
+
 - Initial build, check features initial
+=============

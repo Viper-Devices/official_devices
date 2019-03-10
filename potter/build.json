@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1549625689",
-      "filename": "Viper-potter-20190208-v6.1-OFFICIAL.zip",
-      "id": "3f18419b082b409851416e776dc4fb8e",
+      "datetime": "1552137374",
+      "filename": "Viper-potter-20190309-v6.2-OFFICIAL.zip",
+      "id": "fbce18cfefe4eaa070a28a893ec0ad43",
       "romtype": "OFFICIAL",
-      "size": 654089291,
-      "url": "https://master.dl.sourceforge.net/project/viper-project/potter/Viper-potter-20190208-v6.1-OFFICIAL.zip",
-      "version": "v6.1"
+      "size": 718665519,
+      "url": "https://master.dl.sourceforge.net/project/viper-project/potter/Viper-potter-20190309-v6.2-OFFICIAL.zip",
+      "version": "v6.2"
     }
   ]
 }

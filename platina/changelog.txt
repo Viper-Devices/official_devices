@@ -1,0 +1,4 @@
+- Adjust statusbar icons padding;
+- Adjust statusbar icons in lockscreen;
+- Update vibration pattern from Pixel3;
+- Fit notch as perfect statusbar size.

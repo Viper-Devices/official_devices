@@ -1,0 +1,30 @@
+## OTA Changelog v6.1 ## 
+- Updated base source.
+- Security Patch 2019* 02.
+- Introduced the OTA service.
+- OTA follow ROM theme.
+- New theme for system.
+- News colors accents from Viper Nougat.
+- Rebased Venom base ABC Settings and added new style used Blankeer library (thanks Blankeer).
+- Added QS for Reboot/Recovery.
+- Fixed FC in Apps and Notifications when you click Notifications.
+- New dialog Rom version.
+- Added kernel version extended in dialog Android Version.
+- Added Background of Settings with Viper Logo.
+- Launcher now follow the ROM theme.
+- More improvements for the launcher.
+- Added button to reset battery stats.
+- Added Fonts Packages.
+Device:
+- Updated RIL IMS Thermal Media Graphics etc stuff from daisy.
+- Updated blobs from zui4.0.247DEV.
+- Updated SDM from LA.UM.7.4.r1-04100-8x98.0.
+- Fix ANT+.
+- Kernel: Merged latest caf tags.
+
+## OTA Changelog v6.1 ##
+- Fixed LiveDisplay and Reading mode.
+- Fixed Settings FC when using Apps & Notifications -> Notifications.
+
+## OTA Changelog v6.0 ##
+- Initial build
