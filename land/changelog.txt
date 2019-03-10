@@ -1,6 +1,8 @@
 ## OTA Changelog v6.1 ##
-- Februray Patch 
-- Fm radio Added
-- Live display, Reading mode fixed
-- flickering issue fixed
-- deepsleep fixed
+- Kernel upstremed to latest .36 latest linux tag. 
+- Fixed wifi display. 
+- Update birghtness control. 
+- Update almost all blobs from P. 
+- LineageOs upstream.
+- FM radio fixed.
+- Security patch updated to March.
