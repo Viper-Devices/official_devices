@@ -1,5 +1,17 @@
-- Updated all source ROM ViperOS 6.1
-- Camera2Api enabled by default.
-- NavBar enabled by default.
-- Device tree updates.
-- Gestures fixed.
+- Updated all source ROM ViperOS 6.2!
+- Update sources base.
+- Update March security patch.
+- Added Pulse options (nav bar).
+- Added styles for switch.
+- Added VoLTE icon toggle.
+- Added Fingerprint Authentication Vibration.
+- Added VPapers new (thanks jahirfiquitiva by Frames app source).
+- Added styles for the clock on the lock screen.
+- Added Ambient Music ticker.
+- Added QS Screenshot Full and Parcial.
+- Fixed MotoAcions ( Interface ).
+- Fixed SeLinux Problems.
+- Fixed missing AppOps.
+- Several improvements in themes.
+- Merged WFD qcom Miracast resource from Lineage.
+- Moved hide statusbar from Statubar tab to Lockscreen tab.
