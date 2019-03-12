@@ -1,5 +1,5 @@
-- Updated all source ROM ViperOS 6.1
-- Camera2Api enabled by default.
-- NavBar enabled by default.
-- Device tree updates.
-- Gestures fixed.
+- Updated Kernel.
+- Updated blobs.
+- Updated Vendor ( thanks JohnLaff ).
+- Fixed Live Display and Color Calibration.
+- Other bugs was fix'd.

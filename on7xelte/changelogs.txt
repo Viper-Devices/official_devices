@@ -1,0 +1,6 @@
+## OTA Changelog v6.1 ##
+- Februray Patch
+- Fix Lag Whatsapp
+- Update to G610FDDU1BRG2 build FP
+
+
