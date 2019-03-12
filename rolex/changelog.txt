@@ -1,4 +1,9 @@
 ## OTA Changelog v6.1 ##
+- Fix brightness issue
+- Upstreamed kernel to 3.18.136
+- Incrase audio quality
+
+## OTA Changelog v6.1 ##
 - Fix live display 
 - Fix reading mode
 - Upstreamed kernel to 3.18.134
