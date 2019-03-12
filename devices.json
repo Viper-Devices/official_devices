@@ -1,5 +1,13 @@
 [
     {
+        "name": "Oneplus 6",
+        "brand": "Oneplus",
+        "codename": "enchilada",
+        "maintainer_name": "Rahul Singh",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9099644",
+        "xda_thread": "https://forum.xda-developers.com/oneplus-6/development"
+    },
+    {
         "name": "Xiaomi Redmi 5 Plus",
         "brand": "Xiaomi",
         "codename": "vince",
