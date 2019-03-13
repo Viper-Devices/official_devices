@@ -3,9 +3,6 @@
 - Fixed wireless Display
 - Fixed IMS registration thanks to @flex1911
 - Fixed FM radio
-- Added Xiaomi Doze support
-- Added Dirac Support
-- Added AOD support
 - Updated to 10.0.4.0 Blobs
 
 ## OTA Changelog v6.1 ##
