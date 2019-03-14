@@ -1,0 +1,15 @@
+=============
+OTA Changelog v6.2
+
+- Sources rom updates
+=============
+=============
+OTA Changelog v6.1
+
+- Improviments for performance
+=============
+=============
+OTA Changelog v6.0
+
+- Initial build, check features initial
+=============

@@ -48,6 +48,14 @@
         "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-viperos-t3892866"
     },
     {
+        "name": "Moto E 2015 LTE",
+        "brand": "Motorola",
+        "codename": "surnia",
+        "maintainer_name": "EsromTech",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=4730968",
+        "xda_thread": "https://forum.xda-developers.com/moto-e-2015/development/rom-viperos-moto-e-lte-2015-t3903202"
+    },
+    {
         "name": "Moto G4 Play",
         "brand": "Motorola",
         "codename": "harpia",
