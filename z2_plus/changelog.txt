@@ -1,4 +1,29 @@
-## OTA Changelog v6.1 ## 
+## Changelog v6.2 (16 Mar 2019)##
+- Update sources base
+- Update March security patch
+- Added VoLTE icon toggle
+- Moved hide statusbar from Statubar tab to Lockscreen tab
+- Added Fingerprint Authentication Vibration
+- Added QS Screenshot Full and Parcial
+- Fixed missing AppOps
+- Several improvements in themes
+- Added Pulse options (nav bar)
+- Added Ambient Music ticker 
+- Merged WFD qcom Miracast resource from Lineage
+- Added VPapers new (thanks jahirfiquitiva by Frames app source)
+- Added styles for switch
+- Added styles for the clock on the lock screen
+Device:
+- Fixed wrong wifi mac address
+- Fixed encryption
+- Updated encryption blobs from daisy
+- removed aptx support
+- removed soundtrigger (audiofx is still quirky, better turn it off)
+- Import backlight overlays from Marlin
+- Switched back to aosp offline charger
+- kernel: latest caf and qcacld tags merged
+
+## OTA Changelog v6.1 (09 Feb 2019)## 
 - Updated base source.
 - Security Patch 2019* 02.
 - Introduced the OTA service.
@@ -22,9 +47,9 @@ Device:
 - Fix ANT+.
 - Kernel: Merged latest caf tags.
 
-## OTA Changelog v6.1 ##
+## OTA Changelog v6.1 (27 Jan 2019)##
 - Fixed LiveDisplay and Reading mode.
 - Fixed Settings FC when using Apps & Notifications -> Notifications.
 
-## OTA Changelog v6.0 ##
+## OTA Changelog v6.0 (23 Jan 2019)##
 - Initial build
