@@ -88,6 +88,14 @@
         "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-viperos-6-0-t3897059"
     },
     {
+        "name": "Moto G6 Plus",
+        "brand": "Motorola",
+        "codename": "evert",
+        "maintainer_name": "TheStrechh",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6331811",
+        "xda_thread": "https://forum.xda-developers.com/"
+    },
+    {
         "name": "Moto X4",
         "brand": "Motorola",
         "codename": "payton",
