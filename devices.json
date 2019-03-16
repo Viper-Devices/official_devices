@@ -82,23 +82,10 @@
     {
         "name": "Moto G5S Plus",
         "brand": "Motorola",
-        "codename": "harpia",
-        "maintainer_name": "Allan Souza",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8343393",
-        "xda_thread": "https://forum.xda-developers.com/g4-play/development/rom-viperos-6-0-t3891929"
-    },
-    {
-        "name": "Xiaomi Redmi 4A/5A",
-        "brand": "Xiaomi",
-        "codename": "rolex/riva",
-        "maintainer_name": "Eko Sugiharto",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9086777",
-        "xda_thread": "https://forum.xda-developers.com/redmi-4a/development/rom-viperos-rom-redmi-4a-5a-t3896063"
         "codename": "sanders",
         "maintainer_name": "marminino",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7926069",
         "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-viperos-6-0-t3897059"
-
     },
     {
         "name": "Moto X4",
