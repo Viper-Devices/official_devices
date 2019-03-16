@@ -1,7 +1,14 @@
+============
+6.2 20190316
+============
+- Fixed venom crash from Security settings
+
+============
+6.2 20190309
+============
 - new kernel
 - some kernel improvements made by Squid/sultran 
 - improvements in performance 
 - fixed access to netflix 
 - fixed some denials of sepolicy 
 - updated patch manufacturer
- 
