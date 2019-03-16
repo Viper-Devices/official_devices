@@ -1,0 +1,19 @@
+== Device Changelog ==
+- Revert "payton: import nash bootctrl"
+- payton: use post-fs instead of late-fs
+
+== ViperOS 6.2 Changelog ==
+- Update sources base
+- Update March security patch
+- Added VoLTE icon toggle
+- Moved hide statusbar from Statubar tab to Lockscreen tab
+- Added Fingerprint Authentication Vibration
+- Added QS Screenshot Full and Parcial
+- Fixed missing AppOps
+- Several improvements in themes
+- Added Pulse options (nav bar)
+- Added Ambient Music ticker 
+- Merged WFD qcom Miracast resource from Lineage
+- Added VPapers new (thanks jahirfiquitiva by Frames app source)
+- Added styles for switch
+- Added styles for the clock on the lock screen
