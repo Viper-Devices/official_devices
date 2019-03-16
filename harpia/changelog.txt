@@ -4,4 +4,5 @@
 - fixed access to netflix 
 - fixed some denials of sepolicy 
 - updated patch manufacturer
- 
+==================================
+- fixed venom
