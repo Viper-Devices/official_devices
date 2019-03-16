@@ -40,6 +40,14 @@
         "xda_thread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-viperos-zenfone-max-pro-m1-t3910596"
     },
     {
+        "name": "ZenFone Max Pro M2",
+        "brand": "Asus",
+        "codename": "X01BD",
+        "maintainer_name": "NanuZn",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=",
+        "xda_thread": "https://forum.xda-developers.com/"
+    },
+    {
         "name": "Lenovo ZUK Z2 Plus",
         "brand": "Lenovo",
         "codename": "z2_plus",
