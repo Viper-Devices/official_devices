@@ -1,3 +1,8 @@
+## OTA Changelog v6.2 ##
+- Kernel upstreamed to .136
+- Compile with Clang 9.0.1
+- Only keep DTV on XT1802
+
 ## OTA Changelog v6.1 ##
 - New kernel
 - Kernel upstreamed to .134

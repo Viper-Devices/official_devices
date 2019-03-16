@@ -1,4 +1,8 @@
+# 2018-03-14
 - Adjust statusbar icons padding;
 - Adjust statusbar icons in lockscreen;
 - Update vibration pattern from Pixel3;
 - Fit notch as perfect statusbar size.
+- API2/HAL3 enabled by default;
+- Prebuilt GCAM (stable version)
+- For audio crackles, see xda thread  fix
