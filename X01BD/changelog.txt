@@ -2,3 +2,379 @@
 6.2
 ===
 - Initial build
+=======================
+     03-17-2019
+=======================
+
+
+=======================
+     03-16-2019
+=======================
+
+
+=======================
+     03-15-2019
+=======================
+
+
+   * hardware/qcom/audio/default/
+c009fa9 msm8960: Add SND_DEVICE_OUT_VOICE_MUSIC_TX
+
+   * packages/apps/Venom/
+e1ff08c mFingerprintManager == null for devices without fingerprint sensor
+
+=======================
+     03-14-2019
+=======================
+
+
+   * hardware/qcom/display-caf/apq8084/
+dfd2336 hwc: Handle validateAndSet failures in AD prepare call
+
+   * packages/apps/ViperOTA/
+f4b0f1a Do not use Viper version to look for new update
+
+=======================
+     03-13-2019
+=======================
+
+
+   * packages/apps/Nfc/
+563cf69 NfcNci: make T3T/Nfc-F HCE optional
+
+=======================
+     03-12-2019
+=======================
+
+
+=======================
+     03-11-2019
+=======================
+
+
+   * hardware/qcom/fm/
+8184149 Automatic translation import
+
+   * packages/apps/AudioFX/
+4194a4d Automatic translation import
+
+   * packages/apps/Bluetooth/
+6ea8ba0 Automatic translation import
+
+   * packages/apps/Calendar/
+24896eb Automatic translation import
+
+   * packages/apps/Camera2/
+a0bea7a Automatic translation import
+
+   * packages/apps/CellBroadcastReceiver/
+abd4899 Automatic translation import
+
+   * packages/apps/CertInstaller/
+2945748 Automatic translation import
+
+   * packages/apps/Contacts/
+f176258 Automatic translation import
+
+   * packages/apps/DeskClock/
+8c1a7c1 Automatic translation import
+
+   * packages/apps/Dialer/
+efde518 Automatic translation import
+
+   * packages/apps/DocumentsUI/
+d2a5d9d Automatic translation import
+
+   * packages/apps/Email/
+0504654 Automatic translation import
+
+   * packages/apps/EmergencyInfo/
+67e1636 Automatic translation import
+
+   * packages/apps/ExactCalculator/
+383d6d9 Automatic translation import
+
+   * packages/apps/Exchange/
+b18ae4d Automatic translation import
+
+   * packages/apps/FMRadio/
+e8c91b0 Automatic translation import
+
+   * packages/apps/Gallery2/
+79da894 Automatic translation import
+
+   * packages/apps/HTMLViewer/
+83a1a64 Automatic translation import
+
+   * packages/apps/KeyChain/
+b1d4448 Automatic translation import
+
+   * packages/apps/LockClock/
+eb40ba6 Automatic translation import
+
+   * packages/apps/ManagedProvisioning/
+f2106dd Automatic translation import
+
+   * packages/apps/Messaging/
+a8715b3 Automatic translation import
+
+   * packages/apps/Nfc/
+cff6a27 Automatic translation import
+
+   * packages/apps/PackageInstaller/
+2dc49cc Automatic translation import
+
+   * packages/apps/PhoneCommon/
+dac2b06 Automatic translation import
+
+   * packages/apps/Profiles/
+20f1080 Automatic translation import
+
+   * packages/apps/Recorder/
+fa335f9 Automatic translation import
+
+   * packages/apps/SafetyRegulatoryInfo/
+f617317 Automatic translation import
+
+   * packages/apps/Snap/
+e725b2c Automatic translation import
+
+   * packages/apps/Stk/
+7f5fc6f Automatic translation import
+
+   * packages/apps/StorageManager/
+dcbde0d Automatic translation import
+
+   * packages/apps/Tag/
+00b453e Automatic translation import
+
+   * packages/apps/Terminal/
+20b82f7 Automatic translation import
+
+   * packages/apps/TvSettings/
+b9631ae Automatic translation import
+
+   * packages/apps/UnifiedEmail/
+c68a95e Automatic translation import
+
+   * packages/apps/WallpaperPicker/
+3256671 Automatic translation import
+
+   * packages/inputmethods/LatinIME/
+1e604da Automatic translation import
+
+   * packages/providers/BlockedNumberProvider/
+a7692be Automatic translation import
+
+   * packages/providers/BookmarkProvider/
+3327e9c Automatic translation import
+
+   * packages/providers/CalendarProvider/
+9b1aebd Automatic translation import
+
+   * packages/providers/CallLogProvider/
+e2e0c6f Automatic translation import
+
+   * packages/providers/ContactsProvider/
+177d0bd Automatic translation import
+
+   * packages/providers/DownloadProvider/
+6ad3cc0 Automatic translation import
+
+   * packages/providers/MediaProvider/
+f45db34 Automatic translation import
+
+   * packages/providers/TelephonyProvider/
+411a707 Automatic translation import
+
+   * packages/providers/TvProvider/
+892dad5 Automatic translation import
+
+   * packages/providers/UserDictionaryProvider/
+edbff5b Automatic translation import
+
+   * packages/screensavers/Basic/
+157a344 Automatic translation import
+
+   * packages/screensavers/PhotoTable/
+6f31f1e Automatic translation import
+
+   * packages/services/BuiltInPrintService/
+b27c4ac Automatic translation import
+
+   * packages/services/Mms/
+2225679 Automatic translation import
+
+   * packages/services/Telecomm/
+083d4a2 Automatic translation import
+
+   * packages/services/Telephony/
+9d10b19 Automatic translation import
+
+   * packages/wallpapers/LivePicker/
+2028a53 Automatic translation import
+
+=======================
+     03-10-2019
+=======================
+
+
+=======================
+     03-09-2019
+=======================
+
+
+   * frameworks/base/
+18e114f Telephony: Stop using rssnr, it falsly shows wrong signal bars Pixel and other devices drop this
+da2b55a Fix VOLTE icon toggle in venom
+
+   * packages/apps/Settings/
+fe8cb69 Settings: Move Notch settings to display
+
+=======================
+     03-08-2019
+=======================
+
+
+   * bionic/
+7f1fcc1 Merge tag 'android-9.0.0_r34' android.googlesource.com
+
+   * build/make/
+b71d151 Merge tag 'android-9.0.0_r34' android.googlesource.com
+
+   * device/qcom/sepolicy/
+71e1820 sepolicy: Fix video4linux "name" node labeling
+
+   * external/chromium-webview/
+7390467 Update x86/x86_64 Chromium Webview to 72.0.3626.121
+
+   * frameworks/av/
+d91f006 Merge tag 'android-9.0.0_r34' android.googlesource.com
+
+   * frameworks/base/
+afbbf0f Show mobile icons with left-to-right in order of slot index
+bc70808 Revert "SystemUI: Sort subscriptions in reversed order"
+c725425 Merge tag 'android-9.0.0_r34' android.googlesource.com
+
+   * frameworks/native/
+860225f Merge tag 'android-9.0.0_r34' android.googlesource.com
+
+   * hardware/nxp/nfc/
+81275d3 Merge tag 'android-9.0.0_r34' into lineage-16.0-android-9.0.0_r34
+
+   * packages/apps/PackageInstaller/
+8bc1ef8 Merge tag 'android-9.0.0_r34' into lineage-16.0-android-9.0.0_r34
+
+   * packages/apps/Settings/
+330cd15 Update the timestamp used for time zone filtering
+
+   * system/bt/
+ac0161c Merge tag 'android-9.0.0_r34' into lineage-16.0-android-9.0.0_r34
+
+   * system/core/
+5e0713c Merge tag 'android-9.0.0_r34' android.googlesource.com
+
+   * system/tools/hidl/
+284d76a Merge tag 'android-9.0.0_r34' into lineage-16.0-android-9.0.0_r34
+
+   * vendor/nxp/opensource/commonsys/packages/apps/Nfc/
+fcd6120 Merge tag 'LA.UM.7.3.r1-06900-sdm845.0' into HEAD
+
+   * vendor/nxp/opensource/halimpl/
+460e28d Merge tag 'LA.UM.7.3.r1-06900-sdm845.0' into HEAD
+
+   * vendor/viper/
+ed255f9 sensitive_pn: New United Kingdom helplines
+
+   * viper/manifest/
+7090eb0 Security patch android-9.0.0_r34 and track los google atv
+cf418ad manifest: Track HAL sdm845 and external proguard
+42bfa26 recovery: Track bootable recovery repo
+cbafbe1 Track package Pulse
+
+=======================
+     03-07-2019
+=======================
+
+
+   * device/lineage/sepolicy/
+09856bf Allow launcher access system data file
+20cccba Allow switch sysfs access for system apps
+ede01eb sepolicy: address denials for init/vendor_init
+d5df2db Allow webview_zygote to read /dev/ion
+83987fd sepolicy: common: Add a label for /data/viperos_updates
+
+   * packages/services/Telephony/
+fbdc8c9 Stop generating ids in android namespace.
+e696ae2 Fix resource warnings.
+
+   * system/extras/su/
+af63088 su: Add back mistakenly removed code
+
+   * system/sepolicy/
+889fe5b sepolicy: Implement rules for font service in p-mr0
+790aa14 sepolicy: rules for FontService
+ec05a04 sepolicy: exceptions for font engine assets
+7d7a2de sepolicy: Allow init to chown sysfs LED files
+
+   * vendor/viper/
+8866958 generate_json_build_info: Add to generate Unix Timestamp
+
+=======================
+     03-06-2019
+=======================
+
+
+   * hardware/qcom/display-caf/sdm845/
+3749ad5 display-hals: Expose c2d2.h even if TARGET_DISABLE_DISPLAY is set
+
+   * packages/apps/CarrierConfig/
+d41f4d0 Add settings for carrier ION Mobile
+
+=======================
+     03-05-2019
+=======================
+
+
+=======================
+     03-04-2019
+=======================
+
+
+   * build/make/
+fcf351b Use flags from Soong for d8, r8, dx and desugar
+9b1bb0a Remove TARGET_USES_MKE2FS
+
+   * build/soong/
+8ed5e6d Fix formatting
+8666205 Optimize CPU time when running d8, r8, dx and desugar
+
+   * device/qcom/sepolicy/
+cc99b04 sepolicy: Label persist.nfc.hci_network_reset_req
+
+   * frameworks/base/
+512ec36 Include InCallNotification.ogg in AllAudio.mk file
+f362e84 Add ChargingStarted + InCallNotif to AudioPackage
+6564418 SystemUI: Remove unused resources
+
+   * frameworks/native/
+d5cec3b input: Adjust priority
+
+   * hardware/interfaces/
+a3d4375 wifi: Increase kMaxStopCompleteWaitMs to 250 msec.
+694cb9e wifi: Use stub for add_or_remove_virtual_intf functionality
+
+   * vendor/qcom/opensource/cryptfs_hw/
+b12ad45 Merge from 'lineage-16.0' into pie
+
+   * vendor/viper/
+5bed48e extract_utils: template: introduce kang mode
+8367a40 extract_utils: template: make --section argument non-positional
+265ac39 extract_utils: template: use quotation marks and variable curly braces consistently
+b5cff7b extract_utils: make --section match words anywhere in the line
+965aef5 extract_utils: introduce -k (kang mode) option
+bff9d78 extract_utils: cleanup variable names and arguments passed to extract() function
+e1af352 extract_utils: be compatible with system-as-root layouts
+bdca1e1 extract_utils: drop the "/system/" prefix from prints of blob names
+4fb20e4 libbfqio: Remove vendor variant
+
