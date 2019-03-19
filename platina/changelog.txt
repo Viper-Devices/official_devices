@@ -1,4 +1,4 @@
-# 2018-03-18
+# 2018-03-19
 - Adjust statusbar icons padding;
 - Adjust statusbar icons in lockscreen;
 - Update vibration pattern from Pixel3;
