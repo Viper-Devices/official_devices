@@ -1,5 +1,5 @@
-- Updated Kernel.
-- Updated blobs.
-- Updated Vendor ( thanks JohnLaff ).
-- Fixed Live Display and Color Calibration.
-- Other bugs was fix'd.
+- Updated vendor.
+- Fixed battery drain issue.
+- Fixed FM Radio.
+- Fixed camera recording.
+- Added some apps to HAL1 packagelist.
