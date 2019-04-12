@@ -1,4 +1,21 @@
 ======================
+     12-April-2019
+======================
+Device Changelog
+- Enable Wi-Fi MAC randomization
+- Add back perf profiles into proprietary files
+- Update dpi to 440
+- Added thermal-engine-normal.conf
+- Derp Kernel 5.2 built with clang 9.0.2
+- Re-enable port-bridge service
+Changelog v6.3:
+- Update base from LineageOS
+- Security patch April
+- Toggle to VPN in SystemUI Tuner
+- New style ambient music
+- VPapers app added more wallpapers by Sourav Gope
+
+======================
      09-March-2019
 ======================
 - Initial official build
