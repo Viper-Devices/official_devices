@@ -1,4 +1,9 @@
 ============
+6.3 20190412
+============
+Added button enable/disable navbar
+
+============
 6.2 20190317
 ============
 Fixed venom crash from Security settings
