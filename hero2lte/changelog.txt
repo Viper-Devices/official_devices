@@ -1,3 +1,6 @@
+## OTA Changelog v6.3 ##
+- No device changes
+
 ## 20-03-19 ##
 - Upstreamed kernel to 3.18.137-rc1
 - Added aptX and aptX HD codecs for Bluetooth audio
