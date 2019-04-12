@@ -1,5 +1,11 @@
+## OTA Changelog v6.3 ##
+
+- Rockstar V6 Kernel upstreamed- 3.18.138
+- Build Kernel with CLang 9.0.2
+    =============
+
 ## OTA Changelog v6.2 ##
 - Fixed VoLTE icon toggle
-
 Device changes: 
 - Default Kernel: Wolf V6.5-Hunter Edition 3.18.136
+    =============
