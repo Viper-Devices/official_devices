@@ -1,8 +1,17 @@
-## OTA Changelog v6.1 ##
-- Kernel upstremed to latest .36 latest linux tag. 
-- Fixed wifi display. 
+## OTA Changelog v6.3 ##
+- Kernel upstremed to latest .38 latest linux tag. 
+- Wifi, With Volte Issue Fixed. 
 - Update birghtness control. 
 - Update almost all blobs from P. 
 - LineageOs upstream.
-- FM radio fixed.
-- Security patch updated to March.
+- Disabled Adaptive low memory killer.
+- Xiaomidoze, Xiaomiparts added.
+- Security patch updated to April.
+- Enabled Camera2api by Default.
+- Added offline chargning Animation.
+- Added offline chargning Animation.
+- Added SnapDragon Camera.
+- DeepSleep Fixed.
+- Added dynamic fps node for graphics and controlling frame rates.
+- Network Signal Improved.
+
