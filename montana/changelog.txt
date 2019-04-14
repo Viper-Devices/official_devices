@@ -1,5 +1,2 @@
-- Updated vendor.
-- Fixed battery drain issue.
-- Fixed FM Radio.
-- Fixed camera recording.
-- Added some apps to HAL1 packagelist.
+- Updated Vendor and Kernel.
+- Fixed Camera freezing system.
