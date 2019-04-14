@@ -1,4 +1,22 @@
 ## OTA Changelog v6.1 ##
+
 - Februray Patch
 - Miui Camera Added
 - Updated stuffs
+
+## OTA Changelog v6.3 ##
+
+- April security patch
+- Removed Miui camera
+- Added Gcam 5.x
+- Made with Nano kernel 3.1
+- Prebuilts Nano kernel OTA App
+- Used QCOM framework boost
+- Used QCOM power hal
+- Optimized the rom for better performance
+- Fixed DT2W for QCOM power hal
+- Fixed some stuffs
+- Many kernel optimization 
+- Fixed OTA issues
+
+(Clean flash must)(Flash GAPPS to fix gcam and messenger crash)
