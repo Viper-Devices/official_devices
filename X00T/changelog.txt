@@ -1,16 +1,11 @@
-- March security patch
-- Added VoLTE icon toggle
-- Moved hide statusbar from Statusbar tab to Lockscreen tab
-- Added Fingerprint Authentication Vibration
-- Added QS Screenshot Full and Parcial
-- Fixed missing AppOps
-- Several improvements in themes
-- Added Pulse options (nav bar)
-- Added Ambient Music ticker 
-- Added VPapers new (thanks jahirfiquitiva by Frames app source)
-- Added styles for switch
-- Added styles for the clock on the lock screen
-- Merged kernel with latest stable linux and CAF tag
-- Some kernel optimizations
-- Added ZenFone Parts
-- Merged dirac with NXP audio driver
+Changelog v6.3:
+- Update base from LineageOS
+- Security patch April
+- Toggle to VPN in SystemUI Tuner
+- New style ambient music
+- VPapers app added more wallpapers by Sourav Gope
+
+Device Changelog :
+- Merged kernel with latest linux and CAF tag
+- Upstream updates from Kud's device tree and vendor blobs
+- Other bugfixes and optimization
