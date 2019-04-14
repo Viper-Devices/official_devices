@@ -1,4 +1,0 @@
-## OTA Changelog v6.1 ##
-- Februray Patch
-- Miui Camera Added
-- Updated stuffs

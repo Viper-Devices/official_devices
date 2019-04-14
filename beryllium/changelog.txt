@@ -1,2 +1,2 @@
 Kernel updated
-Option to hide notch available under display settings
+

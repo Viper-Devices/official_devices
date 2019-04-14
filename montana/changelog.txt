@@ -1,5 +1,2 @@
-- Updated Kernel.
-- Updated blobs.
-- Updated Vendor ( thanks JohnLaff ).
-- Fixed Live Display and Color Calibration.
-- Other bugs was fix'd.
+- Updated Vendor and Kernel.
+- Fixed Camera freezing system.

@@ -1,4 +1,11 @@
 =============
+OTA Changelog v6.3
+
+- Kernel upstreamed 4.4.178 and CAF updates Rattlesnake-v1.0
+- Builded with CLang 9.0.2
+=============
+
+=============
 OTA Changelog v6.2
 
 - Kernel upstreamed 4.4.176 Rattlesnake-v0.7

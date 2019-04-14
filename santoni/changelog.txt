@@ -1,20 +1,11 @@
-## OTA Changelog v6.2 ##
-- Update sources base
-- Update March security patch
-- Added VoLTE icon toggle
-- Moved hide statusbar from Statubar tab to Lockscreen tab
-- Added Fingerprint Authentication Vibration
-- Added QS Screenshot Full and Parcial
-- Fixed missing AppOps
-- Several improvements in themes
-- Added Pulse options (nav bar)
-- Added Ambient Music ticker 
-- Merged WFD qcom Miracast resource from Lineage
-- Added VPapers new (thanks jahirfiquitiva by Frames app source)
-- Added styles for switch
-- Added styles for the clock on the lock screen
+## OTA Changelog v6.3 ##
 
+- Rockstar V6 Kernel upstreamed- 3.18.138
+- Build Kernel with CLang 9.0.2
+    =============
+
+## OTA Changelog v6.2 ##
+- Fixed VoLTE icon toggle
 Device changes: 
-- Default kernel:wolf Upstream 3.18.136
-- Dirac Added (Thanks @beingstargazer)
-- Night Light again fixed (thanks @HarukeyUA)
+- Default Kernel: Wolf V6.5-Hunter Edition 3.18.136
+    =============

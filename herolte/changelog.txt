@@ -1,3 +1,11 @@
+## OTA Changelog v6.3 ##
+- No device changes
+
+## 20-03-19 ##
+- Upstreamed kernel to 3.18.137-rc1
+- Added aptX and aptX HD codecs for Bluetooth audio
+- Added HealthServices and related permissions
+
 ## OTA Changelog v6.2 ##
 - Upstreamed kernel to 3.18.136
 - Merged XXU3ERL3 Samsung Kernel Source
