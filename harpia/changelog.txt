@@ -1,3 +1,10 @@
+=============
+6.3 20190414
+=============
+-Fixed Denials 
+-Fixed Volte 
+-improved Kernel made by @ki
+-update blobs 
 ============
 6.2 20190316
 ============
