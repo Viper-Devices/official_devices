@@ -1,4 +1,18 @@
-## Changelog v6.2 (16 Mar 2019)##
+## Changelog v6.2 (16 Apr 2019) ##
+- Update base from LineageOS
+- Security patch April
+- Toggle to VPN in SystemUI Tuner
+- New style ambient music
+- VPapers app added more wallpapers by Sourav Gope
+Device:
+- Update graphics stack from LA.UM.7.5.r1-03700-8x96.0
+- Fix Wifi display 
+- Update blobs from daisy
+- Switch back to zuk perf stack 
+- Sepolicy: Fix some denials.
+- Kernel: latest caf tags merged.
+
+## Changelog v6.2 (16 Mar 2019) ##
 - Update sources base
 - Update March security patch
 - Added VoLTE icon toggle
@@ -23,7 +37,7 @@ Device:
 - Switched back to aosp offline charger
 - kernel: latest caf and qcacld tags merged
 
-## OTA Changelog v6.1 (09 Feb 2019)## 
+## OTA Changelog v6.1 (09 Feb 2019) ##
 - Updated base source.
 - Security Patch 2019* 02.
 - Introduced the OTA service.
@@ -47,9 +61,9 @@ Device:
 - Fix ANT+.
 - Kernel: Merged latest caf tags.
 
-## OTA Changelog v6.1 (27 Jan 2019)##
+## OTA Changelog v6.1 (27 Jan 2019) ##
 - Fixed LiveDisplay and Reading mode.
 - Fixed Settings FC when using Apps & Notifications -> Notifications.
 
-## OTA Changelog v6.0 (23 Jan 2019)##
+## OTA Changelog v6.0 (23 Jan 2019) ##
 - Initial build
