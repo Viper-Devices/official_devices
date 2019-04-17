@@ -304,6 +304,14 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/romwhyred-viper-os-6-0-pie-t3893451"
     },
     {
+        "name": "Xiaomi Redmi 6 Pro",
+        "brand": "Xiaomi",
+        "codename": "sakura",
+        "maintainer_name": "Devil7DK",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6958131",
+        "xda_thread": "https://forum.xda-developers.com/redmi-6-pro/development/rom-viperos-redmi-6-pro-t3922312"
+    },
+    {
         "name": "Xiaomi MI A1",
         "brand": "Xiaomi",
         "codename": "tissot",
