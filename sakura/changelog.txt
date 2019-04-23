@@ -1,2 +1,10 @@
+## OTA Changelog v6.3 (23 Apr 2019) ##
+- Fixed IR Blaster
+- Full SELinux Enforcing
+- Updated Build Fingerprint from MIUI GlobalIN Dev
+- Add & Update QCRil Blobs
+- Added High Speed Camera Profiles from Marlin
+- Moved to OSS IR HAL
+
 ## OTA Changelog v6.3 (17 Apr 2019) ##
 - Initial Official Build
