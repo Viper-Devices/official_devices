@@ -1,4 +1,22 @@
 =========================
+## OTA Changelog v6.3 ##
+
+- Bumped to v6.3
+- Update base from LineageOS
+- Merged April security patch 
+- Toggle to VPN in SystemUI Tuner
+- New style ambient music
+- VPapers app added more wallpapers by Sourav Gope
+- Kernel upstreamed to .170
+- Builded with clang 9.0.3
+- Updated Gcam to latest
+- Enabled burn in protection for status/navbar
+- Kernel rebased on RZ's kernel. Credit goes to @RenderBroken
+- Added some LED related overlays
+========================
+
+
+=========================
 ## OTA Changelog v6.2 ##
 
 - Initial build
