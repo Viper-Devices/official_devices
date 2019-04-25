@@ -9,6 +9,7 @@
 - VPapers app added more wallpapers by Sourav Gope
 - Kernel upstreamed to .170
 - Builded with clang 9.0.3
+- Finally fixed OTG
 - Updated Gcam to latest
 - Enabled burn in protection for status/navbar
 - Kernel rebased on RZ's kernel. Credit goes to @RenderBroken
