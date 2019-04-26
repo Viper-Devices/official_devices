@@ -1,4 +1,8 @@
 =========================
 ## OTA Changelog v6.3 ##
 - Initial build
+- Vibration fixed
+- Keyboard Added
+- APN added
+- Bluetooth disconnecting issue fixed
 ========================
