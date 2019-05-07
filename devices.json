@@ -328,6 +328,14 @@
         "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-t3894813"
     },
     {
+        "name": "MI A2 Lite",
+        "brand": "Xiaomi",
+        "codename": "daisy",
+        "maintainer_name": "opal06",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8661641",
+        "xda_thread": "https://forum.xda-developers.com/mi-a2-lite/development/9-0-viperos-v6-3-xiaomi-mi-a2-lite-t3927195"
+    },
+    {
         "name": "Xiaomi Mi 8 Lite",
         "brand": "Xiaomi",
         "codename": "platina",
