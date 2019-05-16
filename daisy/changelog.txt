@@ -1,1 +1,13 @@
 ## OTA Changelog v6.3 ##
+
+
+## OTA Changelog v6.4 ##
+ - Source updated
+ - May Security Patch
+ - Added Gesture Oneplus
+ - Added aggressive battery mode
+ - Support for Thermal Controller
+ - Support for icon and tag customization by application
+ - Several necessary corrections
+ - GCam fix (thx to saksham033 & offain)
+ - DT2W on some panels (thx to offain)
