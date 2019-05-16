@@ -1,11 +1,11 @@
-## OTA Changelog v6.3 ##
+## OTA Changelog v6.4 ##
 
-- Rockstar V6 Kernel upstreamed- 3.18.138
-- Build Kernel with CLang 9.0.2
-    =============
-
-## OTA Changelog v6.2 ##
-- Fixed VoLTE icon toggle
-Device changes: 
-- Default Kernel: Wolf V6.5-Hunter Edition 3.18.136
-    =============
+- Source updated 
+- May Security Patch
+- Added Gesture Oneplus
+- Added aggressive battery mode
+- Support for Thermal Controller 
+- Support for icon and tag customization by application
+- Several necessary corrections
+- Kernel: Wolf V7 Gamer Edition
+- Kernel: Upstream 3.18.139
