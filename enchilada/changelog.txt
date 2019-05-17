@@ -1,4 +1,28 @@
 =========================
+## OTA Changelog v6.4 ##
+
+- Bumped to v6.4
+- May security patch merged
+- r_37 tag merged
+- Source updated
+- Added Gesture OnePlus
+- Added aggressive battery mode
+- Support for Thermal Controller
+- Support for icon and tag customization by application
+- Several necessary corrections
+- Kernel upstreamed to latest .176
+- Compiled with clang 9.0.3
+- Updated ramdisk. Credit goes to @mTresk
+- KeyHandler: Remove test vibration when moving slider
+- Add QCOM's WFD implementation 
+- Fix rough edges on corners and notch corners and make it smooth. Credit goes to @paphonb 
+- Add Notch Bar Killer in Display Cutout menu. Thanks @anirudhgupta109 for modifying to enchilada dimensions
+  (Makes the system assume no notch exists thus allowing apps to extend behind the notch too) 
+- Merged all source side changes too 
+=========================
+
+
+=========================
 ## OTA Changelog v6.3 ##
 
 - Bumped to v6.3
