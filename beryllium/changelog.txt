@@ -1,2 +1,3 @@
 Kernel updated
-
+Minimum required vendor 9.4.26
+OK google detection fixed
