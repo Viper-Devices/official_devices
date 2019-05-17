@@ -328,6 +328,14 @@
         "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-t3894813"
     },
     {
+        "name": "Xiaomi MI A2",
+        "brand": "Xiaomi",
+        "codename": "jasmine_sprout",
+        "maintainer_name": "Venkat Yadlapati",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8507969",
+        "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-viper-os-t3924811"
+    },
+    {
         "name": "MI A2 Lite",
         "brand": "Xiaomi",
         "codename": "daisy",
