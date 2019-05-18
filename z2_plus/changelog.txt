@@ -1,10 +1,9 @@
-## Changelog v6.2 (16 Apr 2019) ##
-- Update base from LineageOS
-- Security patch April
-- Toggle to VPN in SystemUI Tuner
-- New style ambient music
-- VPapers app added more wallpapers by Sourav Gope
-Device:
+## Changelog v6.4 (18 May 2019) ##
+- Switch back to zuk IMS-QMI-RIL stack.
+- Build kernel with clang.
+- Fix slow charging issue.
+
+## Changelog v6.3 (16 Apr 2019) ##
 - Update graphics stack from LA.UM.7.5.r1-03700-8x96.0
 - Fix Wifi display 
 - Update blobs from daisy
@@ -13,21 +12,6 @@ Device:
 - Kernel: latest caf tags merged.
 
 ## Changelog v6.2 (16 Mar 2019) ##
-- Update sources base
-- Update March security patch
-- Added VoLTE icon toggle
-- Moved hide statusbar from Statubar tab to Lockscreen tab
-- Added Fingerprint Authentication Vibration
-- Added QS Screenshot Full and Parcial
-- Fixed missing AppOps
-- Several improvements in themes
-- Added Pulse options (nav bar)
-- Added Ambient Music ticker 
-- Merged WFD qcom Miracast resource from Lineage
-- Added VPapers new (thanks jahirfiquitiva by Frames app source)
-- Added styles for switch
-- Added styles for the clock on the lock screen
-Device:
 - Fixed wrong wifi mac address
 - Fixed encryption
 - Updated encryption blobs from daisy
@@ -38,23 +22,6 @@ Device:
 - kernel: latest caf and qcacld tags merged
 
 ## OTA Changelog v6.1 (09 Feb 2019) ##
-- Updated base source.
-- Security Patch 2019* 02.
-- Introduced the OTA service.
-- OTA follow ROM theme.
-- New theme for system.
-- News colors accents from Viper Nougat.
-- Rebased Venom base ABC Settings and added new style used Blankeer library (thanks Blankeer).
-- Added QS for Reboot/Recovery.
-- Fixed FC in Apps and Notifications when you click Notifications.
-- New dialog Rom version.
-- Added kernel version extended in dialog Android Version.
-- Added Background of Settings with Viper Logo.
-- Launcher now follow the ROM theme.
-- More improvements for the launcher.
-- Added button to reset battery stats.
-- Added Fonts Packages.
-Device:
 - Updated RIL IMS Thermal Media Graphics etc stuff from daisy.
 - Updated blobs from zui4.0.247DEV.
 - Updated SDM from LA.UM.7.4.r1-04100-8x98.0.
