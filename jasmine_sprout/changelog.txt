@@ -5,6 +5,7 @@ Date :19/05/2017
 - Built with clang 9.0.3
 - Fixed System eroor detected popup at boot time
 - Fixed Can't connect Camera
+- Fixed Fingerprint Gestures
 - Updated Vendor blobs
 - Improved system responsiveness
 =============
