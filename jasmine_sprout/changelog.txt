@@ -1,6 +1,17 @@
 =============
 OTA Changelog v6.4
+Date :19/05/2017
+- Upstreamed Kernel Version 4.4.180
+- Built with clang 9.0.3
+- Fixed System eroor detected popup at boot time
+- Fixed Can't connect Camera
+- Updated Vendor blobs
+- Improved system responsiveness
+=============
 
+=============
+OTA Changelog v6.4
+Date :17/05/2019
 - Initial build
 - Kernel Version 4.4.179
 - Built with clang 9.0.3
