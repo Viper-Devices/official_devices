@@ -1,4 +1,15 @@
 =============
+6.4 20190519
+=============
+- May security patch
+- Update Motolora security patch
+- Sepolicy updated
+- Selinux enforcing
+- Netflix working
+- Thermal control engine merged
+- Perfomance and battery improvements
+- Kenel improvements by @ki
+=============
 6.3 20190510
 =============
 - Bug fixes
