@@ -1,4 +1,11 @@
 ============
+6.4 20190520
+============
+Added support to thermal controller
+Improvements from audio volume
+Update interactive tunables for higher freqs
+
+============
 6.3 20190412
 ============
 Added button enable/disable navbar
