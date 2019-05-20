@@ -1,4 +1,19 @@
 =============
+OTA Changelog v6.4
+
+- Kernel upstreamed 4.4.179 builded with CLang 9.0.3
+- Kernel merged latest Caf tags LA.UM.7.4.r1-05100-8x98.0 and LA.UM.7.4.r1-05000-8x98.0
+- Kernel update commits from base LOS
+- Updated blobs firmware stable 9.0.5
+- Added Thermal Controller in Apps settings
+- Fixed some denials
+- Update gps, location and ipa from LA.UM.7.4.r1-04700-8x98.0
+- Improvements for VoLTE and VoWifi
+- Improvements for Wifi mac randomization
+- Improvements Camera Hal
+=============
+
+=============
 OTA Changelog v6.3
 
 - Kernel upstreamed 4.4.178 and CAF updates Rattlesnake-v1.0

@@ -144,6 +144,14 @@
         "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-viperos-v6-2-t3916713"
     },
     {
+        "name": "Oneplus 6T",
+        "brand": "Oneplus",
+        "codename": "fajita",
+        "maintainer_name": "Aditya Jadaun",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9654073",
+        "xda_thread": "https://forum.xda-developers.com/oneplus-6t/development/rom-viperos-v6-4-t3931851"
+    },
+    {
         "name": "Galaxy J5 LTE 2015",
         "brand": "Samsung",
         "codename": "j5lte",
@@ -251,9 +259,9 @@
         "name": "Xiaomi Redmi 3s",
         "brand": "Xiaomi",
         "codename": "land",
-        "maintainer_name": "Sushant",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6410370",
-        "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-viper-os-6-0-oreo-t3892198"
+        "maintainer_name": "Anshumanxda",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8582349",
+        "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-viper-os-6-4-t3931877"
     },
     {
         "name": "Xiaomi Redmi Note 3",
@@ -326,6 +334,22 @@
         "maintainer_name": "Vishal_Kumar",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8982606",
         "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-t3894813"
+    },
+    {
+        "name": "Xiaomi MI A2",
+        "brand": "Xiaomi",
+        "codename": "jasmine_sprout",
+        "maintainer_name": "Venkat Yadlapati",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8507969",
+        "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-viper-os-t3924811"
+    },
+    {
+        "name": "MI A2 Lite",
+        "brand": "Xiaomi",
+        "codename": "daisy",
+        "maintainer_name": "opal06",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8661641",
+        "xda_thread": "https://forum.xda-developers.com/mi-a2-lite/development/9-0-viperos-v6-3-xiaomi-mi-a2-lite-t3927195"
     },
     {
         "name": "Xiaomi Mi 8 Lite",

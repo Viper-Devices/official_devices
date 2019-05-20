@@ -1,2 +1,11 @@
-- Updated Vendor and Kernel.
-- Fixed Camera freezing system.
+=================================
+         2019-05-19
+=================================
+- Update blobs Oreo 
+- Kernel Upstream 3.18.x
+- improved kernel
+- fixed flash front
+- fixed charging fast
+- Volte enable 
+- add FM
+- fixed problem thermal
