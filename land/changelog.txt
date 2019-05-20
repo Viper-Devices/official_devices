@@ -1,8 +1,4 @@
 ## OTA Changelog v6.1 ##
-- Kernel upstremed to latest .36 latest linux tag. 
-- Fixed wifi display. 
-- Update birghtness control. 
-- Update almost all blobs from P. 
-- LineageOs upstream.
-- FM radio fixed.
-- Security patch updated to March.
+- Kernel upstremed to latest .38 latest linux tag. 
+- Security patch updated to May.
+- Changed Source to Reloaded
