@@ -1,3 +1,9 @@
+## OTA Changelog v6.4 ##
+- Kernel Upstreamed to 4.9.176
+- Update Security Patch Level
+- Increase in-call earpiece volume
+- And some under hood changes for better performance
+
 ## OTA Changelog v6.3 ##
 -Switch back to default kernel
 -Updated to 10.0.7.0 Blobs
