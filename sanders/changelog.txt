@@ -1,14 +1,9 @@
-## OTA Changelog v6.2 ##
-- Kernel upstreamed to .136
-- Compile with Clang 9.0.1
-- Only keep DTV on XT1802
-
-## OTA Changelog v6.1 ##
-- New kernel
-- Kernel upstreamed to .134
-- Fix Camera focus
-- Add eis
-- Added DTV for Brazilian users
-
-## OTA Changelog v6.0 ##
-- Initial build
+## OTA Changelog v6.4 ##
+- Kernel upstreamed to 3.18.140
+- Built with clang 9.0.3
+- Rebased tree & vendor
+- Updated camera blobs
+- Vibration from Pixel devices
+- VoLTE is now stable
+- FM Radio fixed
+- Other minimal changes
