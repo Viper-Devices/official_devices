@@ -1,3 +1,12 @@
+## Changelog 6.4: ##
+ - Source updated
+ - May Security Patch
+ - Added Gesture Oneplus
+ - Added aggressive battery mode
+ - Support for Thermal Controller
+ - Support for icon and tag customization by application
+ - Several necessary corrections
+
 ## Changelog v6.3 ##
 ROM source
 
