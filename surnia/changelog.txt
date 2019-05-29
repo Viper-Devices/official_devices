@@ -1,4 +1,12 @@
 =============
+OTA Changelog v6.4
+
+- Sources rom updates
+- System security patch to may
+- Enabled VoLTE
+- Performance and security improvements
+=============
+=============
 OTA Changelog v6.2
 
 - Sources rom updates
