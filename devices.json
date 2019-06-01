@@ -168,14 +168,6 @@
         "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-viperos-samsung-galaxy-j5-2015-t3893092"
     },
     {
-        "name": "Galaxy J7 Prime",
-        "brand": "Samsung",
-        "codename": "on7xelte",
-        "maintainer_name": "pennywise96",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9535501",
-        "xda_thread": "https://forum.xda-developers.com/galaxy-j7/help/rom-viperos-v6-0-t3894179"
-    },
-    {
         "name": "Galaxy S5 LTE (G900AZ/F/M/R4/R7/T/V/W8,S902L)",
         "brand": "Samsung",
         "codename": "klte",
