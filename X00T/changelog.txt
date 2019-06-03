@@ -1,6 +1,8 @@
-Device Changelog :
-- Updated blobs from LA.UM.7.2.r1-06900-sdm660.0
-- Used PowerHAL 1.2
-- Fixed whatsapp video recorder
-- Fixed random shutdown and deep sleep issue
-- Many bugfixes and optimizations
+## OTA Changelog v6.4 ##
+ - New Maintainer
+ - Based on Kud tree now
+ - Using Chips Kernel EAS as default kernel
+ - Address more denial into sepolicy
+ - Fixed slow charging
+ - Improved charging to 1,9 mA
+ - And alot special things on kernel
