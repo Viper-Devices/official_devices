@@ -1,13 +1,5 @@
 [
     {
-        "name": "Phh-Treble Vanilla ARM A",
-        "brand": "Android",
-        "codename": "phhgsi_arm_a",
-        "maintainer_name": "peaktogoo",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9008281",
-        "xda_thread": "https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-viperos-v6-0-t3895410"
-    },
-    {
         "name": "Asus Zenfone 3",
         "brand": "Asus",
         "codename": "zenfone3",
