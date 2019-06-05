@@ -1,13 +1,5 @@
 [
     {
-        "name": "Asus Zenfone 3",
-        "brand": "Asus",
-        "codename": "zenfone3",
-        "maintainer_name": "Giovix92",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7023217",
-        "xda_thread": "https://forum.xda-developers.com/zenfone-3/development"
-    },
-    {
         "name": "ZenFone Max Pro M1",
         "brand": "Asus",
         "codename": "X00T",
