@@ -248,14 +248,6 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/"
     },
     {
-        "name": "Xiaomi Redmi 5",
-        "brand": "Xiaomi",
-        "codename": "rosy",
-        "maintainer_name": "Shreejoy Dash",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8338700",
-        "xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-viper-os-6-0-pie-t3891876"
-    },
-    {
         "name": "Xiaomi Redmi 5 Plus",
         "brand": "Xiaomi",
         "codename": "vince",
