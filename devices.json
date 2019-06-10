@@ -304,14 +304,6 @@
         "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-viperos-xiaomi-mi8-lite-t3891689"
     },
     {
-        "name":"Redmi note 6 pro",
-        "brand":"Xiaomi",
-        "codename":"tulip",
-        "maintainer_name":"theorganisms (SouravGope)",
-        "maintainer_url":"https://forum.xda-developers.com/member.php?u=9106315",
-        "xda_thread":"https://forum.xda-developers.com/redmi-note-6-pro/development/rom-t3903533"
-    },
-    {
         "name": "Xiaomi Pocophone F1",
         "brand": "Xiaomi",
         "codename": "beryllium",
