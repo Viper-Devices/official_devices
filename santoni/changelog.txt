@@ -1,11 +1,11 @@
-## OTA Changelog v6.4 ##
+## OTA Changelog v6.5 ##
 
-- Source updated 
-- May Security Patch
-- Added Gesture Oneplus
-- Added aggressive battery mode
-- Support for Thermal Controller 
-- Support for icon and tag customization by application
-- Several necessary corrections
-- Kernel: Wolf V7 Gamer Edition
-- Kernel: Upstream 3.18.139
+- Source updated
+- Security patch June
+- Improvements volume panel
+- Solved crash from manual regulatory in About Device
+- Improvements gestures OP for some devices
+- Fixed double tap Lockscreen notification
+- Others fixes and improvements
+- Kernel: Wizard Kernel Clang 9.0.3
+- Kernel: Upstream 3.18.140
