@@ -1,8 +1,6 @@
-## OTA Changelog v6.4 ##
- - New Maintainer
- - Based on Kud tree now
- - Using Chips Kernel EAS as default kernel
- - Address more denial into sepolicy
- - Fixed slow charging
- - Improved charging to 1,9 mA
- - And alot special things on kernel
+## OTA Changelog v6.5 ##
+- Kernel upstreamed to 4.4.181
+- Fix random reboot issue
+- Thermal should be fine on this build.
+- Improve charging to 2,1 mA
+- and alot special things on kernel
