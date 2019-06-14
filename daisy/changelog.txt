@@ -11,3 +11,20 @@
  - Several necessary corrections
  - GCam fix (thx to saksham033 & offain)
  - DT2W on some panels (thx to offain)
+
+## OTA Changelog v6.5 ##
+Source:
+- Source updated
+- Security patch June
+- Improvements volume panel
+- Solved crash from manual regulatory in About Device
+- Improvements gestures OP for some devices
+- Fixed double tap Lockscreen notification
+- Others fixes and improvements
+Device:
+ - DT2W now works on all panels (fix by offain)
+ - Fingerprint gestures (by offain)
+ - BT audio improvements (by saksham33 & offain)
+ - Kernel upstream to v3.18.123 (further upstream to follow)
+ - OTA from this build on should work
+ - Minor improvements and fixes
