@@ -1,3 +1,9 @@
+## Changelog v6.5 (15 June 2019) ##
+- Update blobs to LA.UM.7.5.r1-04800-8x96.0.
+- Fix wifi  and bluetooth mac address.
+- Remove ANT+.
+- Switch back to daisy poweroff alarm.
+
 ## Changelog v6.4 (18 May 2019) ##
 - Switch back to zuk IMS-QMI-RIL stack.
 - Build kernel with clang.
