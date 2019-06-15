@@ -152,7 +152,7 @@
         "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-viperos-samsung-galaxy-j5-2015-t3893092"
     },
     {
-        "name": "Galaxy S5 LTE (G900AZ/F/M/R4/R7/T/V/W8,S902L)",
+        "name": "Galaxy S5 (klte)",
         "brand": "Samsung",
         "codename": "klte",
         "maintainer_name": "Brunowp8",
@@ -160,7 +160,7 @@
         "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-9-0-0r30viperos-v6-0-klte-variants-t3893055"
     },
     {
-        "name": "Galaxy S5 LTE (G9006V/8V)",
+        "name": "Galaxy S5 (kltechn)",
         "brand": "Samsung",
         "codename": "kltechn",
         "maintainer_name": "Brunowp8",
@@ -168,7 +168,7 @@
         "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-9-0-0r30viperos-v6-0-klte-variants-t3893055"
     },
     {
-        "name": "Galaxy S5 LTE Duos (G9006W/8W)",
+        "name": "Galaxy S5 (kltechnduo)",
         "brand": "Samsung",
         "codename": "kltechnduo",
         "maintainer_name": "Brunowp8",
@@ -176,7 +176,7 @@
         "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-9-0-0r30viperos-v6-0-klte-variants-t3893055"
     },
     {
-        "name": "Galaxy S5 LTE Duos (G900FD/MD)",
+        "name": "Galaxy S5 (klteduos)",
         "brand": "Samsung",
         "codename": "klteduos",
         "maintainer_name": "Brunowp8",
@@ -184,7 +184,7 @@
         "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-9-0-0r30viperos-v6-0-klte-variants-t3893055"
     },
     {
-        "name": "Galaxy S5 LTE (G900I/P)",
+        "name": "Galaxy S5 (kltedv)",
         "brand": "Samsung",
         "codename": "kltedv",
         "maintainer_name": "Brunowp8",
@@ -192,7 +192,7 @@
         "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-9-0-0r30viperos-v6-0-klte-variants-t3893055"
     },
     {
-        "name": "Galaxy S5 LTE (G900K/L/S)",
+        "name": "Galaxy S5 (kltekor)",
         "brand": "Samsung",
         "codename": "kltekor",
         "maintainer_name": "Brunowp8",
