@@ -1,3 +1,7 @@
-## OTA Changelog v6.3 ##
+## OTA Changelog v6.5 ##
 
-rom is official now !!!!
+Android 9.0 r40 
+june patch
+compiled with gcc 8.3
+added power saver tweaks
+fixed random reboot
