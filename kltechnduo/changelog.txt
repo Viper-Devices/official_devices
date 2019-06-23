@@ -1,3 +1,12 @@
+## Changelog 6.5: ##
+- Source updated
+- Security patch June
+- Improvements volume panel
+- Solved crash from manual regulatory in About Device
+- Improvements gestures OP for some devices
+- Fixed double tap Lockscreen notification
+- Others fixes and improvements
+
 ## Changelog 6.4: ##
  - Source updated
  - May Security Patch
