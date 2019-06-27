@@ -1,3 +1,15 @@
+## OTA Changelog v6.5 ##
+- Kernel Upstreamed to 4.9.180
+- Updated Blobs to V10.0.9.0.PDHMIXM
+- Updated GPS Blobs
+- And some under hood change for better performance
+
+## OTA Changelog v6.4 ##
+- Kernel Upstreamed to 4.9.176
+- Update Security Patch Level
+- Increase in-call earpiece volume
+- And some under hood changes for better performance
+
 ## OTA Changelog v6.3 ##
 -Switch back to default kernel
 -Updated to 10.0.7.0 Blobs

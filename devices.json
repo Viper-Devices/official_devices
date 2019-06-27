@@ -1,42 +1,10 @@
 [
     {
-        "name": "Phh-Treble Vanilla ARM A",
-        "brand": "Android",
-        "codename": "phhgsi_arm_a",
-        "maintainer_name": "peaktogoo",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9008281",
-        "xda_thread": "https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-viperos-v6-0-t3895410"
-    },
-    {
-        "name": "Phh-Treble Vanilla ARM64 A",
-        "brand": "Android",
-        "codename": "phhgsi_arm64_a",
-        "maintainer_name": "peaktogoo",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9008281",
-        "xda_thread": "https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-viperos-v6-0-t3895410"
-    },
-    {
-        "name": "Phh-Treble Vanilla ARM64 AB",
-        "brand": "Android",
-        "codename": "phhgsi_arm64_ab",
-        "maintainer_name": "peaktogoo",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9008281",
-        "xda_thread": "https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-viperos-v6-0-t3895410"
-    },
-    {
-        "name": "Asus Zenfone 3",
-        "brand": "Asus",
-        "codename": "zenfone3",
-        "maintainer_name": "Giovix92",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7023217",
-        "xda_thread": "https://forum.xda-developers.com/zenfone-3/development"
-    },
-    {
         "name": "ZenFone Max Pro M1",
         "brand": "Asus",
         "codename": "X00T",
-        "maintainer_name": "travarilo",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6331651",
+        "maintainer_name": "JulianSurya",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9425689",
         "xda_thread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-viperos-zenfone-max-pro-m1-t3910596"
     },
     {
@@ -48,7 +16,7 @@
         "xda_thread": "https://forum.xda-developers.com/"
     },
     {
-        "name": "Lenovo ZUK Z2 Plus",
+        "name": "ZUK Z2 Plus",
         "brand": "Lenovo",
         "codename": "z2_plus",
         "maintainer_name": "Yash_Karande(cyproto)",
@@ -59,8 +27,8 @@
         "name": "Moto E 2015 LTE",
         "brand": "Motorola",
         "codename": "surnia",
-        "maintainer_name": "EsromTech",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=4730968",
+        "maintainer_name": "ExpressLuke",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7166349",
         "xda_thread": "https://forum.xda-developers.com/moto-e-2015/development/rom-viperos-moto-e-lte-2015-t3903202"
     },
     {
@@ -76,11 +44,11 @@
         "brand": "Motorola",
         "codename": "harpia",
         "maintainer_name": "Gabriel Ferreira",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8343393",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9306061",
         "xda_thread": "https://forum.xda-developers.com/g4-play/development/rom-viperos-6-0-t3891929"
     },
     {
-        "name": "Motorola G5 Plus",
+        "name": "Moto G5 Plus",
         "brand": "Motorola",
         "codename": "potter",
         "maintainer_name": "ImTester",
@@ -91,15 +59,15 @@
         "name": "Moto G5S",
         "brand": "Motorola",
         "codename": "montana",
-        "maintainer_name": "nowbie",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9236081",
+        "maintainer_name": "Allan Souza",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8343393",
         "xda_thread": "https://forum.xda-developers.com/moto-g5s/development/rom-viperos-v6-0-t3896522"
     },
     {
         "name": "Moto G5S Plus",
         "brand": "Motorola",
         "codename": "sanders",
-        "maintainer_name": "marminino",
+        "maintainer_name": "AlissonLauffer",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7926069",
         "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-viperos-6-0-t3897059"
     },
@@ -121,7 +89,7 @@
     },
     {
         "name": "Oneplus 5",
-        "brand": "Oneplus",
+        "brand": "OnePlus",
         "codename": "cheeseburger",
         "maintainer_name": "EsromTech",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=4730968",
@@ -129,7 +97,7 @@
     },
     {
         "name": "Oneplus 5T",
-        "brand": "Oneplus",
+        "brand": "OnePlus",
         "codename": "dumpling",
         "maintainer_name": "EsromTech",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=4730968",
@@ -137,11 +105,19 @@
     },
     {
         "name": "Oneplus 6",
-        "brand": "Oneplus",
+        "brand": "OnePlus",
         "codename": "enchilada",
         "maintainer_name": "Aditya Jadaun",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=9654073",
         "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-viperos-v6-2-t3916713"
+    },
+    {
+        "name": "Oneplus 6T",
+        "brand": "OnePlus",
+        "codename": "fajita",
+        "maintainer_name": "Aditya Jadaun",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9654073",
+        "xda_thread": "https://forum.xda-developers.com/oneplus-6t/development/rom-viperos-v6-4-t3931851"
     },
     {
         "name": "Galaxy J5 LTE 2015",
@@ -176,15 +152,7 @@
         "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-viperos-samsung-galaxy-j5-2015-t3893092"
     },
     {
-        "name": "Galaxy J7 Prime",
-        "brand": "Samsung",
-        "codename": "on7xelte",
-        "maintainer_name": "pennywise96",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9535501",
-        "xda_thread": "https://forum.xda-developers.com/galaxy-j7/help/rom-viperos-v6-0-t3894179"
-    },
-    {
-        "name": "Galaxy S5 LTE (G900AZ/F/M/R4/R7/T/V/W8,S902L)",
+        "name": "Galaxy S5 LTE",
         "brand": "Samsung",
         "codename": "klte",
         "maintainer_name": "Brunowp8",
@@ -192,7 +160,7 @@
         "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-9-0-0r30viperos-v6-0-klte-variants-t3893055"
     },
     {
-        "name": "Galaxy S5 LTE (G9006V/8V)",
+        "name": "Galaxy S5 LTE China",
         "brand": "Samsung",
         "codename": "kltechn",
         "maintainer_name": "Brunowp8",
@@ -200,7 +168,7 @@
         "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-9-0-0r30viperos-v6-0-klte-variants-t3893055"
     },
     {
-        "name": "Galaxy S5 LTE Duos (G9006W/8W)",
+        "name": "Galaxy S5 LTE China Duos",
         "brand": "Samsung",
         "codename": "kltechnduo",
         "maintainer_name": "Brunowp8",
@@ -208,7 +176,7 @@
         "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-9-0-0r30viperos-v6-0-klte-variants-t3893055"
     },
     {
-        "name": "Galaxy S5 LTE Duos (G900FD/MD)",
+        "name": "Galaxy S5 LTE Duos",
         "brand": "Samsung",
         "codename": "klteduos",
         "maintainer_name": "Brunowp8",
@@ -216,7 +184,7 @@
         "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-9-0-0r30viperos-v6-0-klte-variants-t3893055"
     },
     {
-        "name": "Galaxy S5 LTE (G900I/P)",
+        "name": "Galaxy S5 LTE Vodafone",
         "brand": "Samsung",
         "codename": "kltedv",
         "maintainer_name": "Brunowp8",
@@ -224,7 +192,7 @@
         "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-9-0-0r30viperos-v6-0-klte-variants-t3893055"
     },
     {
-        "name": "Galaxy S5 LTE (G900K/L/S)",
+        "name": "Galaxy S5 LTE Korean",
         "brand": "Samsung",
         "codename": "kltekor",
         "maintainer_name": "Brunowp8",
@@ -232,39 +200,31 @@
         "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-9-0-0r30viperos-v6-0-klte-variants-t3893055"
     },
     {
-        "name": "Galaxy S7 (G930F/S/K/L/W8)",
+        "name": "Galaxy S7 LTE",
         "brand": "Samsung",
         "codename": "herolte",
-        "maintainer_name": "DeveloperLuke",
+        "maintainer_name": "ExpressLuke",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7166349",
         "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/9-0-viperos-t3902922"
     },
     {
-        "name": "Galaxy S7 edge (G935F/S/K/L/W8)",
+        "name": "Galaxy S7 LTE edge",
         "brand": "Samsung",
         "codename": "hero2lte",
-        "maintainer_name": "DeveloperLuke",
+        "maintainer_name": "ExpressLuke",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7166349",
         "xda_thread": "https://forum.xda-developers.com/s7-edge/development/9-0-viper-os-t3901902"
     },
     {
-        "name": "Xiaomi Redmi 3s",
+        "name": "Redmi 3s",
         "brand": "Xiaomi",
         "codename": "land",
-        "maintainer_name": "Sushant",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6410370",
-        "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-viper-os-6-0-oreo-t3892198"
+        "maintainer_name": "Anshumanxda",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8582349",
+        "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-viper-os-6-4-t3931877"
     },
     {
-        "name": "Xiaomi Redmi Note 3",
-        "brand": "Xiaomi",
-        "codename": "kenzo",
-        "maintainer_name": "imakhlaq",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7266535",
-        "xda_thread": "https://forum.xda-developers.com/redmi-note-3/development/rom-viperos-aosvp-6-0-t3894172"
-    },
-    {
-        "name": "Xiaomi Redmi 4A/5A",
+        "name": "Redmi 4A/5A",
         "brand": "Xiaomi",
         "codename": "rolex",
         "maintainer_name": "Eko Sugiharto",
@@ -272,7 +232,7 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-4a/development/rom-viperos-rom-redmi-4a-5a-t3896063"
     },
     {
-        "name": "Xiaomi Redmi 4X",
+        "name": "Redmi 4X",
         "brand": "Xiaomi",
         "codename": "santoni",
         "maintainer_name": "Bikram_M",
@@ -280,7 +240,7 @@
         "xda_thread": ""
     },
     {
-        "name": "Xiaomi Redmi Note 4",
+        "name": "Redmi Note 4",
         "brand": "Xiaomi",
         "codename": "mido",
         "maintainer_name": "Joshua_M",
@@ -288,15 +248,7 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/"
     },
     {
-        "name": "Xiaomi Redmi 5",
-        "brand": "Xiaomi",
-        "codename": "rosy",
-        "maintainer_name": "Shreejoy Dash",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8338700",
-        "xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-viper-os-6-0-pie-t3891876"
-    },
-    {
-        "name": "Xiaomi Redmi 5 Plus",
+        "name": "Redmi 5 Plus",
         "brand": "Xiaomi",
         "codename": "vince",
         "maintainer_name": "Shantanu Singh",
@@ -304,7 +256,7 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/rom-viper-os-6-1-t3901878"
     },
     {
-        "name": "Xiaomi Redmi Note 5/Pro",
+        "name": "Redmi Note 5/Pro",
         "brand": "Xiaomi",
         "codename": "whyred",
         "maintainer_name": "Abhishek Singh",
@@ -312,7 +264,7 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/romwhyred-viper-os-6-0-pie-t3893451"
     },
     {
-        "name": "Xiaomi Redmi 6 Pro",
+        "name": "Redmi 6 Pro",
         "brand": "Xiaomi",
         "codename": "sakura",
         "maintainer_name": "Devil7DK",
@@ -320,7 +272,7 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-6-pro/development/rom-viperos-redmi-6-pro-t3922312"
     },
     {
-        "name": "Xiaomi MI A1",
+        "name": "MI A1",
         "brand": "Xiaomi",
         "codename": "tissot",
         "maintainer_name": "Vishal_Kumar",
@@ -328,7 +280,7 @@
         "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-t3894813"
     },
     {
-        "name": "Xiaomi MI A2",
+        "name": "MI A2",
         "brand": "Xiaomi",
         "codename": "jasmine_sprout",
         "maintainer_name": "Venkat Yadlapati",
@@ -344,7 +296,7 @@
         "xda_thread": "https://forum.xda-developers.com/mi-a2-lite/development/9-0-viperos-v6-3-xiaomi-mi-a2-lite-t3927195"
     },
     {
-        "name": "Xiaomi Mi 8 Lite",
+        "name": "Mi 8 Lite",
         "brand": "Xiaomi",
         "codename": "platina",
         "maintainer_name": "Bruno_Rocha",
@@ -352,15 +304,7 @@
         "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-viperos-xiaomi-mi8-lite-t3891689"
     },
     {
-        "name":"Redmi note 6 pro",
-        "brand":"Xiaomi",
-        "codename":"tulip",
-        "maintainer_name":"theorganisms (SouravGope)",
-        "maintainer_url":"https://forum.xda-developers.com/member.php?u=9106315",
-        "xda_thread":"https://forum.xda-developers.com/redmi-note-6-pro/development/rom-t3903533"
-    },
-    {
-        "name": "Xiaomi Pocophone F1",
+        "name": "Pocophone F1",
         "brand": "Xiaomi",
         "codename": "beryllium",
         "maintainer_name": "thenewguyhere",
@@ -368,11 +312,19 @@
         "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-viperos-6-1-9-0-t3901929"
     },
     {
-        "name": "YU Yuphoria",
-        "brand": "YU",
+        "name": "Yuphoria",
+        "brand": "Yu",
         "codename": "lettuce",
         "maintainer_name": "Gaurav24",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8029593",
         "xda_thread": "https://forum.xda-developers.com/yu-yuphoria/development/rom-viperos-6-1-t3901381"
+    },
+    {
+        "name": "Yunique",
+        "brand": "Yu",
+        "codename": "jalebi",
+        "maintainer_name": "Harsh Pal",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9792468",
+        "xda_thread": "https://forum.xda-developers.com/yu-yunique/development/official-viper-os-t3940615"
     }
 ]

@@ -1,4 +1,24 @@
 ======================
+     22-Jun-2019
+======================
+Note 
+ - Pie firmware v10.3.1.0.PEIMIXM required(https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/whyred/fw_whyred_miui_HMNote5Global_V10.3.1.0.PEIMIXM_d4d2c9f2aa_9.0.zip/)
+ - Pie firmware supported recovery (https://androidfilehost.com/?fid=6006931924117884758)
+Device Changelog
+ - Based on pie firware v10.3.1.0.PEIMIXM
+ - Added Dirac Tile
+ - Gcam patches added no need any patches via magisk
+Changelog v6.5:
+ - Source updated
+ - Security patch June
+ - Improvements volume panel
+ - Solved crash from manual regulatory in About Device
+ - Improvements gestures OP for some devices
+ - Fixed double tap Lockscreen notification
+ - Others fixes and improvements
+
+
+======================
      19-May-2019
 ======================
 Device Changelog

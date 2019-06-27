@@ -1,14 +1,6 @@
-Changelog v6.4 :
-- Source updated
-- May Security Patch
-- Added Gesture Oneplus
-- Added aggressive battery mode
-- Support for Thermal Controller
-- Support for icon and tag customization by application
-- Several necessary corrections
-
-Device Changelog :
-- Merged with latest pie blobs
-- Merged kernel with latest linux & CAF tag
-- Selinux enforcing
-- Many bugfixes and optimizations
+## OTA Changelog v6.5 ##
+- Kernel upstreamed to 4.4.181
+- Fix random reboot issue
+- Thermal should be fine on this build.
+- Improve charging to 2,1 mA
+- and alot special things on kernel
