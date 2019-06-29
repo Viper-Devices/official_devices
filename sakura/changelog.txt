@@ -1,3 +1,19 @@
+## OTA Changelog v6.4 (9 Jun 2019) ##
+- Actually fixed IR blaster
+- Updated vendor blobs from latest ota updates
+- Added more codecs from CAF
+- Updated media profiles from miui pie
+- Added XiaomiParts
+- Added AOD
+- Added Dirac support
+- WiFi MAC randomization enabled by default
+- Pre-opt SystemUI and HWUI enabled for better perfornmance
+- Swipe-up gestures enabled by default
+- Ambient music fixed
+- Addressed more selinux denials
+- Upstreamed kernel
+- And some kernel related changes
+
 ## OTA Changelog v6.3 (23 Apr 2019) ##
 - Fixed IR Blaster
 - Full SELinux Enforcing

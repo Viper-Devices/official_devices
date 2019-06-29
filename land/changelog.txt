@@ -1,4 +1,11 @@
 ## OTA Changelog v6.4 ##
-- Kernel upstremed to latest .38 latest linux tag. 
-- Security patch updated to May.
-- Changed Source to Reloaded
+- Source updated
+- Security patch June
+- Improvements volume panel
+- Solved crash from manual regulatory in About Device
+- Improvements gestures OP for some devices
+- Fixed double tap Lockscreen notification
+- Others fixes and improvements
+- Fixed Mi Sound Enhancer
+- Added Gcam
+

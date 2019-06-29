@@ -1,6 +1,6 @@
-OTA Changelog v6.4
+OTA Changelog v6.5
 
 -Optimus Drunk (3.18.140)
 -SELinux Enforcing
 -Compiled with Clang 9.0.3
--May Patch R37
+-Jun Patch R40

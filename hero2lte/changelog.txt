@@ -1,3 +1,10 @@
+## OTA Changelog v6.4 ##
+- Fixed HWC
+- Updated vendor security patch to march
+- Updated system security patch to may
+- Enabled quota support on /data (Make sure you are on latest twrp)
+- Misc performance and stability improvements
+
 ## OTA Changelog v6.3 ##
 - No device changes
 
