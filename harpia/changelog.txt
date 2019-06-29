@@ -1,4 +1,11 @@
 =============
+6.5 20190629
+=============
+- June security patch
+- Changes on display
+- Improved battery and perfomance
+- Bug fixes
+=============
 6.4 20190519
 =============
 - May security patch
