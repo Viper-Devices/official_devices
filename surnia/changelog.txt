@@ -1,4 +1,12 @@
 =============
+OTA Changelog v6.5
+
+- Sources rom updates
+- System security patch to june
+- Fixed ril issues for some models of surnia
+- Performance and security improvements
+=============
+=============
 OTA Changelog v6.4
 
 - Sources rom updates
