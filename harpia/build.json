@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime":"1561815167",
-      "filename":"Viper-harpia-20190629-v6.5-OFFICIAL.zip",
-      "id":"5a6333ff1a771741eaf9dfb2deffcd97",
+      "datetime": "1561815167",
+      "filename": "Viper-harpia-20190629-v6.5-OFFICIAL.zip",
+      "id": "5a6333ff1a771741eaf9dfb2deffcd97",
       "romtype": "OFFICIAL",
-      "size":502108533,
+      "size": 502108533,
       "url": "https://master.dl.sourceforge.net/project/viper-project/harpia/Viper-harpia-20190629-v6.5-OFFICIAL.zip",
       "version": "v6.5"
     }
