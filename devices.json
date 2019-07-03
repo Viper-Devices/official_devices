@@ -326,5 +326,11 @@
         "maintainer_name": "Harsh Pal",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=9792468",
         "xda_thread": "https://forum.xda-developers.com/yu-yunique/development/official-viper-os-t3940615"
-    }
+    },
+        "name": "Nokia 6.1 Plus",
+        "brand": "Nokia",
+        "codename": "DRG_sprout",
+        "maintainer_name": "RaghuVarma Gadhiraju",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8154034",
+        "xda_thread": "https://forum.xda-developers.com/nokia-6-1-plus/development/rom-viperos-v6-1-t3900078"
 ]
