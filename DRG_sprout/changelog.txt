@@ -1,0 +1,9 @@
+=============
+OTA Changelog v6.5
+Date :07/06/2019
+- June Security patch 
+- Viper version 6.5
+- Kernel Version 4.4.153 Stock
+- Add Gcam & Nokia cam
+- Improved system responsiveness
+=============
