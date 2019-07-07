@@ -1,9 +1,0 @@
-# 2019-06-16 #
-- A lot of battery improvements;
-- Switch to Acrux Kernel v3.1;
-- Fix some hal1 and hal3 settings (Snapchat and Instagram be more smooth);
-- Remap display modes;
-- Enabled smartbattery and auto power modes;
-- Removed prebuilt gcam;
-
-# Please flash a stable firmware, read xda thread. #
