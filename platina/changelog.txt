@@ -1,7 +1,7 @@
 ## OTA Changelog v6.5 ##
 ROM Side:
 - Fixed translations
-- Merge tag 'android-9.0.0_r44'
+- Merge tag 'android-9.0.0_r40'
 - Source updated
 - Security patch June
 - Improvements volume panel
