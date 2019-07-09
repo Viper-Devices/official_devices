@@ -278,5 +278,13 @@
         "maintainer_name": "Harsh Pal",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=9792468",
         "xda_thread": "https://forum.xda-developers.com/yu-yunique/development/official-viper-os-t3940615"
+    },
+    {
+        "name": "Mi 8 Lite",
+        "brand": "Xiaomi",
+        "codename": "platina",
+        "maintainer_name": "Charles Chaplin",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9912336",
+        "xda_thread": ""
     }
 ]
