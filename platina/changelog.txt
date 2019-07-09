@@ -1,0 +1,24 @@
+## OTA Changelog v6.5 ##
+ROM Side:
+- Fixed translations
+- Merge tag 'android-9.0.0_r44'
+- Source updated
+- Security patch June
+- Improvements volume panel
+- Solved crash from manual regulatory in About Device
+- Improvements gestures OP for some devices
+- Fixed double tap Lockscreen notification
+- Others fixes and improvements
+
+Kernel Side:
+- Merge 4.4.184
+- Merge latest CAF tag
+- Force block requests onto their origin CPU
+- Tree wide cleanups and optimization
+- Remove a lot of debugging
+- Lock little cores to 902mHz
+- Skip sync on suspend
+- Enable advanced TCP
+- Wake up all little cores before suspending to idle (quicker idle suspend and less drain)
+- Some more camera fix ups
+- Fix battery not being calibrated properly
