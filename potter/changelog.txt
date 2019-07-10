@@ -1,6 +1,6 @@
 OTA Changelog v6.5
 
--Optimus Drunk (3.18.140)
+-Lineage Kernel (3.18.138)
 -SELinux Enforcing
--Compiled with Clang 9.0.3
--Jun Patch R40
+-Compiled with Clang 9.0.5
+-July Patch R44
