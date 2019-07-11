@@ -1,4 +1,14 @@
 =======================
+     11-07-2019
+=======================
+- July Patch
+- Bluetooth On By default
+- Fast Charging  Added
+- New Kernel
+- DPI Set
+- NFC permission Removed 
+
+=======================
      06-18-2019
 =======================
 - Initial build
