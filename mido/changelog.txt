@@ -1,12 +1,5 @@
-ViperOS v6.4:
 
-- Update sources tree
-
-ViperOS v6.3:
-
-- Update sources tree
-
-ViperOS v6.2:
+ViperOS v6.2 - v6.6:
 
 - Update sources tree
 

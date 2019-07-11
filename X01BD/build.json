@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1560542420",
-      "filename": "Viper-X01BD-20190614-v6.5-OFFICIAL.zip",
-      "id": "0f0fab7eb10e53d8f7effe247617142d",
+      "datetime": "1562771617",
+      "filename": "Viper-X01BD-20190710-v6.6-OFFICIAL.zip",
+      "id": "a2e384bd86f4eed3dd690c0bbff1f3af",
       "romtype": "OFFICIAL",
-      "size": 763424902,
-      "url": "https://master.dl.sourceforge.net/project/viper-project/X01BD/Viper-X01BD-20190614-v6.5-OFFICIAL.zip",
-      "version": "v6.5"
+      "size": 760054979,
+      "url": "https://master.dl.sourceforge.net/project/viper-project/X01BD/Viper-X01BD-20190710-v6.6-OFFICIAL.zip",
+      "version": "v6.6"
     }
   ]
 }

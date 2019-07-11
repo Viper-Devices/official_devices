@@ -1,0 +1,18 @@
+=============
+OTA Changelog v6.6
+Date :07/11/2019
+
+- July Security patch 
+- Viper version 6.5
+- Kernel Version 4.4.153 Stock
+- Add Gcam & Nokia cam
+- Improved system responsiveness
+* Improved gps reception
+* Fixed reboot on low battery
+* Merged LA.UM.7.3.r1-07900-sdm845.0 on CAF base
+* Improved pocket lock
+* Theming fixes
+* Night display improvements
+* Updated translations
+* Others bug fixes
+=============

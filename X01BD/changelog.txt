@@ -1,4 +1,22 @@
 =============
+OTA Changelog v6.6
+- Back to old livedisplay
+- Removed pre-installed Gcam
+- Added back Asus stock camera
+- Fixed offline charging
+- Address dirac denials
+
+
+=============
+OTA Changelog v6.5
+- Upstreamed kernel to 4.4.184
+- GoogleCamera functional now (credits @Rk585)
+- Added off screen gestures (credits @Rk585)
+- Added USB Fastcharge in Zenfoneparts
+- Internel propblem popup in lockscreen fixed
+
+
+=============
 OTA Changelog v6.5
 
 - switched to Etherious kernel (thanks @sksbss)
