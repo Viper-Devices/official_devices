@@ -1,3 +1,6 @@
+## OTA Changelog v6.6 ##
+- Optimized on kernel
+
 ## OTA Changelog v6.4 ##
 - Upstreamed kernel to 3.18.140
 - Add Alessa Governor
