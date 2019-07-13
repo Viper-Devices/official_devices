@@ -1,3 +1,7 @@
+## OTA Changelog v6.6 (12 Jul 2019) ##
+- Security patch updated to July
+- Upstreamed kernel
+
 ## OTA Changelog v6.5 (8 Jul 2019) ##
 - Security patch updated to June
 - Improvements volume panel

@@ -1,3 +1,30 @@
+==============
+20190711 v6.6
+==============
+- Fix perms for atfwd
+- Import aljeter pie media configs
+- Smoother the vibrations
+- Used CAF Thermal
+- Snap: disable openLegacy
+- Compile kernel with clang
+- Disable bluetooth by default
+- Fix audio source for recording calls
+- Audio: add back FM entries
+- Reserve 128MB for critical system components
+- Migrate to audio V4
+- Improvements camera
+- Set minimum brightness
+- Disable Night Light in favor of LiveDisplay
+- Add zram size for models with 4GB of RAM
+- Build audio-effects service
+- Add audio_tuning_mixer from OSS Hal
+- Disable HAL3 and EIS
+- Show DocumentsUI internal storage by default
+- Wifi: Enable 2.4GHz channel bonding
+- Audio: Increase incall volume
+- Show battery fully charged notification
+
+
 =================================
          2019-05-19
 =================================
