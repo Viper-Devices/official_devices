@@ -1,7 +1,46 @@
 ## OTA Changelog v6.6 ##
-ROM Side:
-- Source ViperOS updated
-- Security patch July
-- Google tab in the Launcher follows the theme color
-- Added our SetupWizard Viper
-- Other more improvements and fixes
+DEVICE
+- Disabled pocket mode (Improve Deep Sleep and Battery life)
+- Added some missing Google permissions (Fixed Google Lens, VR Mode and some issues and lags)
+- Fixed some sepolicy denial.
+- Full Nuked Mlipay.
+- Build with No Cutout Overlay and NotchBarKiller.
+- Remove TA interaction boost.
+- Fix the 1mm notch bug.
+- Fix some notch padding.
+- Improved Auto brightness under low light.
+- Improve User activity timeout brightness.
+- Other improvements.
+
+KERNEL
+- Completely rebased from scratch, lots of pesky commits and drain removed
+- 4.4.185 and latest CAF tag merged
+- Xiaomi code cleaned up with minimal changes to Android-stable
+- Wi-Fi driver imported from CAF and cleaned up
+- Energy aware scheduling
+- My own, capacity-based energy model included (more battery life and performance compared to any other EM)
+- Disable kernel-wide debugging (debug_fs and debug_kernel removed)
+- F2FS rapid GC 
+- Stune boosting locked to 1
+- Compiled with DragonTC 9 (clang with polly optimizations)
+- Klapse and kcal
+- Wake up all idle CPUs before suspending (helps with idle drain)
+- Turn off sched autogrouping
+- Set CPUBW governor to bw_hwmon
+- Optimize UFS stack
+- Improve camera performance and drain
+- Use analog dimming
+- Use system wide interruptible waits
+- Force block requests onto their origin CPU
+- mm/ optimizations
+- Add dynamic bitclk and fps support to the panel
+- Remove some high priority workqueues from useless things
+- Link /dev/urandom to /dev/random
+- Add and refactor make flags
+- Fix memory overlaps
+- Fix qcacld-3.0 wifi bug where signal would be 0 in QS/status bar
+- VDSO32 enabled
+- Speedup EXT4
+- Omit useless dtbs
+- Use 250Hz timer
+- Remove all debugging and tracing drivers
