@@ -2,12 +2,12 @@
   "response": [
     {
       "datetime": "0",
-      "filename": "Viper-jasmine_sprout-20190614-v6.5-OFFICIAL.zip",
+      "filename": "Viper-jasmine_sprout-20190719-v6.6-OFFICIAL.zip",
       "id": "a51b0c6a095cea099bfa78c20e4dfab8",
       "romtype": "OFFICIAL",
-      "size": 864026624,
-      "url": "https://master.dl.sourceforge.net/project/viper-project/jasmine_sprout/Viper-jasmine_sprout-20190614-v6.5-OFFICIAL.zip",
-      "version": "v6.5"
+      "size": 831520768,
+      "url": "https://master.dl.sourceforge.net/project/viper-project/jasmine_sprout/Viper-jasmine_sprout-20190719-v6.6-OFFICIAL.zip",
+      "version": "v6.6"
     }
   ]
 }
