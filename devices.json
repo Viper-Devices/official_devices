@@ -248,6 +248,14 @@
         "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-viper-os-t3924811"
     },
     {
+        "name": "MI 6X",
+        "brand": "Xiaomi",
+        "codename": "wayne",
+        "maintainer_name": "Venkat Yadlapati",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8507969",
+        "xda_thread": "https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-viperos-t3949986"
+    },
+    {
         "name": "MI A2 Lite",
         "brand": "Xiaomi",
         "codename": "daisy",
