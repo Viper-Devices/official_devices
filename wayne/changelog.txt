@@ -1,5 +1,17 @@
+=============
+OTA Changelog v6.6
+Date :19/07/2019
+- July Security patch 
+- Viper version 6.6
+- Upstreamed Kernel Version 4.4.185
+- Built with clang 9.0.5
+- Revamped vendor
+=============
+
+=============
 Changelog 6.1:
 - Initial build Pie
 - Add Via Browser
 - Add Phonograph music player
 - Add support for Google camera
+=============
