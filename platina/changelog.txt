@@ -1,46 +1,30 @@
 ## OTA Changelog v6.6 ##
 DEVICE
-- Disabled pocket mode (Improve Deep Sleep and Battery life)
-- Added some missing Google permissions (Fixed Google Lens, VR Mode and some issues and lags)
-- Fixed some sepolicy denial.
-- Full Nuked Mlipay.
-- Build with No Cutout Overlay and NotchBarKiller.
-- Remove TA interaction boost.
-- Fix the 1mm notch bug.
-- Fix some notch padding.
-- Improved Auto brightness under low light.
-- Improve User activity timeout brightness.
-- Other improvements.
+- Fixed Auto Brightness.
 
-KERNEL
-- Completely rebased from scratch, lots of pesky commits and drain removed
-- 4.4.185 and latest CAF tag merged
-- Xiaomi code cleaned up with minimal changes to Android-stable
-- Wi-Fi driver imported from CAF and cleaned up
-- Energy aware scheduling
-- My own, capacity-based energy model included (more battery life and performance compared to any other EM)
-- Disable kernel-wide debugging (debug_fs and debug_kernel removed)
-- F2FS rapid GC 
-- Stune boosting locked to 1
-- Compiled with DragonTC 9 (clang with polly optimizations)
-- Klapse and kcal
-- Wake up all idle CPUs before suspending (helps with idle drain)
-- Turn off sched autogrouping
-- Set CPUBW governor to bw_hwmon
-- Optimize UFS stack
-- Improve camera performance and drain
-- Use analog dimming
-- Use system wide interruptible waits
-- Force block requests onto their origin CPU
-- mm/ optimizations
-- Add dynamic bitclk and fps support to the panel
-- Remove some high priority workqueues from useless things
-- Link /dev/urandom to /dev/random
-- Add and refactor make flags
-- Fix memory overlaps
-- Fix qcacld-3.0 wifi bug where signal would be 0 in QS/status bar
-- VDSO32 enabled
-- Speedup EXT4
-- Omit useless dtbs
-- Use 250Hz timer
-- Remove all debugging and tracing drivers
+VENDOR (Thanks to @nysadev)
+- Vendor Clean Up (Improved UI/UX feeling)
+- Updated Graphics Blob.
+- Updated Perf Blob.
+
+KERNEL (Thanks to @nysadev)
+- Switch to 100Hz config
+- Fix hotspot issues on MIUI
+- Fix booting from charger, so it actually boots
+- Nuke more qcacld-3.0 debugging and wakelocks
+- Checkout net DB to Xiaomi's version (this fixes Wi-Fi and LTE issues on MIUI)
+- Also kill 3rd party variants of GCam in the background to avoid drain
+- Reduce jitter
+- Switch to PELT load tracking
+- Use a PELT half-life of 16 (makes app launching snappy)
+- Use better energy costs for more performance
+- Revert some commits that caused latency
+- Reserve caches for small, high-frequency memory allocations in binder
+- Fix notifications not always coming through
+- Enable memlat governor
+- Reduce some power logspam
+- Get rid of massive mutex locks
+- Switch to a 100Hz timer configuration
+- Rewrite iommu to improve clarity and performance
+- Get rid of the annoying + at the end of the kernel string
+- Optimize kgsl things
