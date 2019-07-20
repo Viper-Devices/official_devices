@@ -1,6 +1,8 @@
-## OTA Changelog v6.5 ##
+## OTA Changelog v6.6 ##
 
-- Updated kernel to Beast 4.9.182
+- Updated kernel to Dark ages 4.9.185
 - Rebased tree
+- Fixed Charging Light
+- Performance tweaks
 
 
