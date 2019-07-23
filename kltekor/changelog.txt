@@ -1,4 +1,13 @@
-## Changelog 6.5: ##
+## Changelog 6.6 ## 
+
+- Source ViperOS updated
+- Security patch July
+- Google tab in the Launcher follows the theme color
+- Added our SetupWizard Viper
+- Other more improvements and fixes
+
+
+## Changelog 6.5 ##
 - Source updated
 - Security patch June
 - Improvements volume panel
@@ -7,7 +16,7 @@
 - Fixed double tap Lockscreen notification
 - Others fixes and improvements
 
-## Changelog 6.4: ##
+## Changelog 6.4 ##
  - Source updated
  - May Security Patch
  - Added Gesture Oneplus
