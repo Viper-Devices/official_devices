@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1561242453",
-      "filename": "Viper-kltechnduo-20190622-v6.5-OFFICIAL.zip",
-      "id": "f06236d12669826cf7d23a12dd13cc3a",
+      "datetime": "1563860510",
+      "filename": "Viper-kltechnduo-20190723-v6.6-OFFICIAL.zip",
+      "id": "ef56644bb5f0e8618150ae81821b1a71",
       "romtype": "OFFICIAL",
-      "size": 528698999,
-      "url": "https://master.dl.sourceforge.net/project/viper-project/kltechnduo/Viper-kltechnduo-20190622-v6.5-OFFICIAL.zip",
-      "version": "v6.5"
+      "size": 532814921,
+      "url": "https://master.dl.sourceforge.net/project/viper-project/kltechnduo/Viper-kltechnduo-20190723-v6.6-OFFICIAL.zip",
+      "version": "v6.6"
     }
   ]
 }
