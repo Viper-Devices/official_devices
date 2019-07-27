@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1561216202",
-      "filename": "Viper-whyred-20190622-v6.5-OFFICIAL.zip",
-      "id": "c559d345a5efa6a0cefdb40d604a4710",
+      "datetime": "1564246474",
+      "filename": "Viper-whyred-20190727-v6.6-OFFICIAL.zip",
+      "id": "2c3d591d25ef441495660f57e3150b7e",
       "romtype": "OFFICIAL",
-      "size": 772609823,
-      "url": "https://master.dl.sourceforge.net/project/viper-project/whyred/Viper-whyred-20190622-v6.5-OFFICIAL.zip",
-      "version": "v6.5"
+      "size": 777747169,
+      "url": "https://master.dl.sourceforge.net/project/viper-project/whyred/Viper-whyred-20190727-v6.6-OFFICIAL.zip",
+      "version": "v6.6"
     }
   ]
 }
