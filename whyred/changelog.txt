@@ -1,4 +1,27 @@
 ======================
+     27-Jul-2019
+======================
+Device Changelog
+ - Built with clang 9.0.5
+ - Enable DFS channel scanning in P2P search
+ - update gps.conf from V10.3.1.0
+ - update system build props from V10.3.1.0.PEIMIXM 
+ - update time service blobs from LA.UM.7.2.r1-06900-sdm660.0
+ - wifi: update configs from V10.3.1.0.PEIMIXM
+ - gps: Disable unused location services 
+ - Optimize ART props
+ - Update GPS from LA.UM.7.2.r1-07000-sdm660.0
+ - set TARGET_HAS_NO_WLAN_STATS & set TARGET_HAS_NO_POWER_STATS 
+ - Remove unnecessary TARGET_USES_MKE2FS
+Changelog v6.6:
+ - Source ViperOS updated
+ - Security patch July
+ - Google tab in the Launcher follows the theme color
+ - Added our SetupWizard Viper
+ - Other more improvements and fixes
+
+
+======================
      22-Jun-2019
 ======================
 Note 
