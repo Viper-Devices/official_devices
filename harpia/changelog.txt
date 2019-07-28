@@ -1,4 +1,11 @@
 =============
+6.6 20190726
+=============
+- July security patch
+- Google tab in the Launcher follows the theme color
+- Added our SetupWizard Viper
+- Other more improvements and fixes
+=============
 6.5 20190629
 =============
 - June security patch
