@@ -1,30 +1,12 @@
 ## OTA Changelog v6.6 ##
 DEVICE
-- Fixed Auto Brightness.
+- Completed rebase Device Tree, thanks to @brunorochaa.
+- Fixed Dirac support, thanks to @riquebarros17.
+- Improvements on smooth, no more delay on open apps.
+- Fixed gesture Swipe to Home button.
 
-VENDOR (Thanks to @nysadev)
-- Vendor Clean Up (Improved UI/UX feeling)
-- Updated Graphics Blob.
-- Updated Perf Blob.
+VENDOR
+- Completed rebase thanks to @brunorochaa.
 
-KERNEL (Thanks to @nysadev)
-- Switch to 100Hz config
-- Fix hotspot issues on MIUI
-- Fix booting from charger, so it actually boots
-- Nuke more qcacld-3.0 debugging and wakelocks
-- Checkout net DB to Xiaomi's version (this fixes Wi-Fi and LTE issues on MIUI)
-- Also kill 3rd party variants of GCam in the background to avoid drain
-- Reduce jitter
-- Switch to PELT load tracking
-- Use a PELT half-life of 16 (makes app launching snappy)
-- Use better energy costs for more performance
-- Revert some commits that caused latency
-- Reserve caches for small, high-frequency memory allocations in binder
-- Fix notifications not always coming through
-- Enable memlat governor
-- Reduce some power logspam
-- Get rid of massive mutex locks
-- Switch to a 100Hz timer configuration
-- Rewrite iommu to improve clarity and performance
-- Get rid of the annoying + at the end of the kernel string
-- Optimize kgsl things
+KERNEL
+- Latest stable Acrux.
