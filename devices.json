@@ -1,13 +1,5 @@
 [
     {
-        "name": "Yureka Black",
-        "brand": "YU",
-        "codename": "Garlic",
-        "maintainer_name": "Pritish Joshi",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7443262",
-        "xda_thread": "https://forum.xda-developers.com/android/software/rom-viper-os-6-6-t3956609"
-    },
-    {
         "name": "ZenFone Max Pro M1",
         "brand": "Asus",
         "codename": "X00T",
@@ -294,6 +286,14 @@
         "maintainer_name": "Gaurav24",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8029593",
         "xda_thread": "https://forum.xda-developers.com/yu-yuphoria/development/rom-viperos-6-1-t3901381"
+    },
+    {
+        "name": "Yureka Black",
+        "brand": "Yu",
+        "codename": "Garlic",
+        "maintainer_name": "Pritish Joshi",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7443262",
+        "xda_thread": "https://forum.xda-developers.com/android/software/rom-viper-os-6-6-t3956609"
     },
     {
         "name": "Yunique",
