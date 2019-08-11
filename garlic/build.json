@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime":"1565531430",
+      "datetime": "1565531430",
       "filename": "Viper-garlic-20190811-v6.6-OFFICIAL.zip",
       "id": "bf18e0ef09a9bd626c53e211dbe7ca55",
       "romtype": "OFFICIAL",
-      "size":658475498,
+      "size": 658475498,
       "url": "https://master.dl.sourceforge.net/project/viper-project/garlic/Viper-garlic-20190811-v6.6-OFFICIAL.zip",
       "version": "v6.6"
     }
