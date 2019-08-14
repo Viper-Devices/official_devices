@@ -1,12 +1,39 @@
-## OTA Changelog v6.6 ##
-DEVICE
-- Completed rebase Device Tree, thanks to @brunorochaa.
-- Fixed Dirac support, thanks to @riquebarros17.
-- Improvements on smooth, no more delay on open apps.
-- Fixed gesture Swipe to Home button.
+## OTA Changelog v6.7 ##
 
-VENDOR
-- Completed rebase thanks to @brunorochaa.
+ROM
+- Merged security patch August
+- Merged tag pie-gsi from Google
+- Update sources ViperOS from LineageOS
+
+DEVICE
+- Sync with EvoX source
+- Increase call volume
+- Added some camera props
+- Import and set Mi thermal engine
+- MIUI Power off charging animation
+- Fixed Dirac
+- Added Notchbar Killer
+- Updated number of icons in notifications
+- Update Audio Configs
+- Updated Powerhint
+- Fix WiFi Display
+- WiFi stability improvements
+- Fixed missed the keyboard on initial boot
+- Fixed some denials for System and Apps
+- Some Clean up in device tree
+- Update and clean system props
+- Optimization on UI/UX
+- General Improvements
 
 KERNEL
-- Latest stable Acrux.
+- Latest stable Acrux Saiph
+- Merge 4.4.186 and latest CAF merges
+- Update some more PELT commits
+- Remove cpufreq_times bloat
+- Switch to GCC 10 for compiling
+- Remove some more qcacld-3.0 wakelocks
+- Remove dynamic fps support (framedrop fix)
+- Silence some more loggers
+- Add CPUmasks
+- CPUIdle backports
+- Sched backports

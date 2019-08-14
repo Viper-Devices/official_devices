@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": "1564418602",
-            "filename": "Viper-platina-20190729-v6.6-OFFICIAL.zip",
-            "id": "ab18eb690a8cf29ea1fc67495b054475",
+            "datetime": "1565788453",
+            "filename": "Viper-platina-20190814-v6.7-OFFICIAL.zip",
+            "id": "16d289b5fcf7eb8ca9d67901bf3b470f",
             "romtype": "OFFICIAL",
-            "size": 794126179,
-            "url": "https://ufpr.dl.sourceforge.net/project/viper-project/platina/Viper-platina-20190729-v6.6-OFFICIAL.zip",
-            "version": "v6.6"
+            "size": 809146034,
+            "url": "https://ufpr.dl.sourceforge.net/project/viper-project/platina/Viper-platina-20190814-v6.7-OFFICIAL.zip",
+            "version": "v6.7"
         }
     ]
 }
