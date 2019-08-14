@@ -3,4 +3,6 @@ OTA Changelog v6.5
 -Lineage Kernel (3.18.138)
 -SELinux Enforcing
 -Compiled with Clang 9.0.5
--July Patch R44
+-August Patch (R46)
+-Merged tag pie-gsi from Google
+-Update sources ViperOS from LineageOS
