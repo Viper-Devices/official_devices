@@ -1,4 +1,19 @@
 =============
+OTA Changelog v6.7
+
+ROM Source:
+- Merged security patch August
+- Merged tag pie-gsi from Google
+- Update sources ViperOS from LineageOS
+
+Device Source:
+- SELinux enforcing
+- Offline charging animation fix
+- 4k video recording
+- Minor improvements
+=============
+
+=============
 OTA Changelog v6.6
 
 ROM Source:
