@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1565531430",
-      "filename": "Viper-garlic-20190811-v6.6-OFFICIAL.zip",
-      "id": "bf18e0ef09a9bd626c53e211dbe7ca55",
+      "datetime": "1565777851",
+      "filename": "Viper-garlic-20190814-v6.7-OFFICIAL.zip",
+      "id": "8e2243afe2ccae72cc32e3071bbbbb37",
       "romtype": "OFFICIAL",
-      "size": 658475498,
-      "url": "https://master.dl.sourceforge.net/project/viper-project/garlic/Viper-garlic-20190811-v6.6-OFFICIAL.zip",
-      "version": "v6.6"
+      "size": 655292412,
+      "url": "https://master.dl.sourceforge.net/project/viper-project/garlic/Viper-garlic-20190814-v6.7-OFFICIAL.zip",
+      "version": "v6.7"
     }
   ]
 }
