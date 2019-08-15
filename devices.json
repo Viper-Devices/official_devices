@@ -32,14 +32,6 @@
         "xda_thread": "https://forum.xda-developers.com/moto-e-2015/development/rom-viperos-moto-e-lte-2015-t3903202"
     },
     {
-        "name": "Moto G 2015",
-        "brand": "Motorola",
-        "codename": "osprey",
-        "maintainer_name": "Anis Noorudheen P (anisgvr)",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7719271",
-        "xda_thread": "https://forum.xda-developers.com/2015-moto-g/development/rom-t3921992"
-    },
-    {
         "name": "Moto G4 Play",
         "brand": "Motorola",
         "codename": "harpia",
@@ -70,38 +62,6 @@
         "maintainer_name": "AlissonLauffer",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7926069",
         "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-viperos-6-0-t3897059"
-    },
-    {
-        "name": "Moto G6 Plus",
-        "brand": "Motorola",
-        "codename": "evert",
-        "maintainer_name": "TheStrechh",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6331811",
-        "xda_thread": "https://forum.xda-developers.com/"
-    },
-    {
-        "name": "Moto X4",
-        "brand": "Motorola",
-        "codename": "payton",
-        "maintainer_name": "TheStrechh",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6331811",
-        "xda_thread": "https://forum.xda-developers.com/moto-x4/development/rom-viper-os-6-0-pie-t3894651"
-    },
-    {
-        "name": "6.1 Plus",
-        "brand": "Nokia",
-        "codename": "DRG_sprout",
-        "maintainer_name": "RaghuVarma Gadhiraju",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8154034",
-        "xda_thread": "https://forum.xda-developers.com/nokia-6-1-plus/development/rom-viperos-v6-1-t3900078"
-    },
-    {
-        "name": "Oneplus 5",
-        "brand": "OnePlus",
-        "codename": "cheeseburger",
-        "maintainer_name": "EsromTech",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=4730968",
-        "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-viperos-oneplus-5-t3891662"
     },
     {
         "name": "Oneplus 5T",
@@ -190,14 +150,6 @@
         "maintainer_name": "Anshumanxda",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8582349",
         "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-viper-os-6-4-t3931877"
-    },
-    {
-        "name": "Redmi 4A",
-        "brand": "Xiaomi",
-        "codename": "rolex",
-        "maintainer_name": "Eko Sugiharto",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9086777",
-        "xda_thread": "https://forum.xda-developers.com/redmi-4a/development/rom-viperos-rom-redmi-4a-5a-t3896063"
     },
     {
         "name": "Redmi Note 4",

@@ -1,8 +1,0 @@
-#Changelog v6.2
--use organic kernel 5.0
--import qns wrapper driver
--Decrease MAX_L2CAP_CHANNELS
--Force HAL1 for certain apps
--Increase the maximum size for socket receive buffer
--Re-enable port-bridge service
--Add support for tap-to-wake feature control
