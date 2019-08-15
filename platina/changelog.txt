@@ -1,30 +1,39 @@
-# 2018-04-13
---DEVICE SIDE--
-- Fixed double tap to wake DT2W (Working now. Thx ManoloRey);
-- Removed patchelf for mlipay and update blobs;
-- Updated vendor props to LA.UM.7.2.r1-05800-sdm660.0;
-- Updated VNDK sp;
-- Updated Audio Configs (fixed audio cracking 1/2);
-- Updated support for F2FS;
-- Fixed noise while playing games and WhatsApp (fixed audio cracking 2/2);
-- Fixed SafetyNet Magisk (used taimen build fingerprint april 2019).
+## OTA Changelog v6.7 ##
 
---KERNEL SIDE--
-- Updated kernel source to pie micode (SkipJack kernel, rebased from source. Thx ManoloRey);
-- Merged upstream tag 4.4.178;
-- Merged recent tag LA.UM.7.2.r1-06700-sdm660.0 for all kernel;
-- Enabled Wireguard;
-- Enabled Kcal v2;
-- Added support for TTL.
+ROM
+- Merged security patch August
+- Merged tag pie-gsi from Google
+- Update sources ViperOS from LineageOS
 
---VENDOR SIDE--
-- Updated to MIUI 9.3.28 blobs.
+DEVICE
+- Sync with EvoX source
+- Increase call volume
+- Added some camera props
+- Import and set Mi thermal engine
+- MIUI Power off charging animation
+- Fixed Dirac
+- Added Notchbar Killer
+- Updated number of icons in notifications
+- Update Audio Configs
+- Updated Powerhint
+- Fix WiFi Display
+- WiFi stability improvements
+- Fixed missed the keyboard on initial boot
+- Fixed some denials for System and Apps
+- Some Clean up in device tree
+- Update and clean system props
+- Optimization on UI/UX
+- General Improvements
 
-# 2018-03-19
-- Adjust statusbar icons padding;
-- Adjust statusbar icons in lockscreen;
-- Update vibration pattern from Pixel3;
-- Fit notch as perfect statusbar size.
-- API2/HAL3 enabled by default;
-- Prebuilt GCAM (stable version);
-- For audio crackles, see xda thread  fix.
+KERNEL
+- Latest stable Acrux Saiph
+- Merge 4.4.186 and latest CAF merges
+- Update some more PELT commits
+- Remove cpufreq_times bloat
+- Switch to GCC 10 for compiling
+- Remove some more qcacld-3.0 wakelocks
+- Remove dynamic fps support (framedrop fix)
+- Silence some more loggers
+- Add CPUmasks
+- CPUIdle backports
+- Sched backports

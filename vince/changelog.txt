@@ -1,8 +1,8 @@
-## OTA Changelog v6.4 ##
+## OTA Changelog v6.6 ##
 
-- Updated kernel to DAB 4.9.176
-- FIXED: FPTouch Issue
-- Thermal Patches Added
-- Migrate to LiveDisplay 2.0
+- Updated kernel to Dark ages 4.9.185
+- Rebased tree
+- Fixed Charging Light
+- Performance tweaks
 
 

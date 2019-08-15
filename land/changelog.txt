@@ -1,5 +1,6 @@
-## OTA Changelog v6.4 ##
-- Fixed Led
-- Fixed Mi Sound Enhancer
-- Fixed Ambient always on
-- Some other changes
+## OTA Changelog v6.6 ##
+- Source ViperOS updated
+- Security patch July
+- Google tab in the Launcher follows the theme color
+- Added our SetupWizard Viper
+- Other more improvements and fixes

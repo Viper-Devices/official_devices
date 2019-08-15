@@ -11,3 +11,10 @@
  - Improved charging stability
  - Add gcam as default camera
  - Some improvement and fixes
+ 
+## OTA Changelog v6.5 ##
+- Kernel upstreamed to 4.4.181
+- Fix random reboot issue
+- Thermal should be fine on this build.
+- Improve charging to 2,1 mA
+- and alot special things on kernel

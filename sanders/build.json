@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1558649954",
-      "filename": "Viper-sanders-20190523-v6.4-OFFICIAL.zip",
-      "id": "54400c3b7e2b570d33e1bbcb69ff4dc7",
+      "datetime": "1563663348",
+      "filename": "Viper-sanders-20190720-v6.6-OFFICIAL.zip",
+      "id": "146160a7bec91b9a8687a2cdfc0db7a9",
       "romtype": "OFFICIAL",
-      "size": 682646412,
-      "url": "https://master.dl.sourceforge.net/project/viper-project/sanders/Viper-sanders-20190523-v6.4-OFFICIAL.zip",
-      "version": "v6.4"
+      "size": 687299385,
+      "url": "https://master.dl.sourceforge.net/project/viper-project/sanders/Viper-sanders-20190720-v6.6-OFFICIAL.zip",
+      "version": "v6.6"
     }
   ]
 }

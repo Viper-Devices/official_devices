@@ -1,4 +1,25 @@
 =============
+OTA Changelog v6.6
+
+- Upstreamed kernel to 4.4.184 v1.6 Rattlesnake
+- Builded with CLang 9.0.5
+- Update blobs firmware 9.0.6
+- Improvements camera
+- Improvements power profile
+- Improvements Networks and volume step
+=============
+
+=============
+OTA Changelog v6.5
+
+- Removed support Thermal Controller (Some incompatibility caused errors in the logs)
+- Upstreamed kernel sources linux stable 4.4.181 Rattlesnake 1.4
+- Upstreamed kernel sources CAF
+- Audio higher maxOpenCount to 4
+- Update props display from CAF
+=============
+
+=============
 OTA Changelog v6.4
 
 - Kernel upstreamed 4.4.179 builded with CLang 9.0.3

@@ -1,0 +1,18 @@
+## OTA v6.7 Changelog ##
+
+- Merged security patch August
+- Merged tag pie-gsi from Google
+- Update sources ViperOS from LineageOS
+
+
+
+
+
+
+
+
+
+
+
+
+
