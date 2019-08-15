@@ -1,4 +1,17 @@
 =============
+OTA Changelog v6.7
+
+- Update blobs from stable 9.0.8
+- Kernel upstreamed to 4.4.189 rattlesnake v2.0
+- Kernel upstreamed from kernel base LineageOS
+- Kernel builded with CLang 9.0.5
+- Audio: don't enable anc on voip calls
+- Audio: only enable anc on handset vc
+- Audio: set default qcom acdb id's for headset mic
+- Audio: update acdb table from 9.0.6
+=============
+
+=============
 OTA Changelog v6.6
 
 - Upstreamed kernel to 4.4.184 v1.6 Rattlesnake
