@@ -1,3 +1,17 @@
+## OTA Changelog v6.7 ##
+ - Initial Build
+ - Enforcing SElinux
+ - Add zenpart with dirac thanks to kang cendol durian
+ - Fixed Hotspot issue
+ - Add audio config from stock rom
+ - Updated blob
+ - Widevine L1
+ - Upstreamed kernel
+ - Improved gpu rendering graphic
+ - Improved charging stability
+ - Add gcam as default camera
+ - Some improvement and fixes
+ 
 ## OTA Changelog v6.5 ##
 - Kernel upstreamed to 4.4.181
 - Fix random reboot issue
