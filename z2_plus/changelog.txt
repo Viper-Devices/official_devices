@@ -1,3 +1,7 @@
+## Changelog v6.7 (16 August 2019) ##
+- Kernel: Merge LA.UM.7.5.2.r1-03300-8x96.0.
+- Kernel: qcacld-2.0: Merge LA.UM.7.5.2.r1-03300-8x96.0. 
+
 ## Changelog v6.5 (15 June 2019) ##
 - Update blobs to LA.UM.7.5.r1-04800-8x96.0.
 - Fix wifi  and bluetooth mac address.
