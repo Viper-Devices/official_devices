@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1562843543",
-      "filename": "Viper-z2_plus-20190711-v6.6-OFFICIAL.zip",
-      "id": "55b8ff0cb2ad1929ab92497930e15255",
+      "datetime": "1565878207",
+      "filename": "Viper-z2_plus-20190816-v6.7-OFFICIAL.zip",
+      "id": "7b64c360ae2817b92f59c8fa4055d1bf",
       "romtype": "OFFICIAL",
-      "size": 666552632,
-      "url": "https://master.dl.sourceforge.net/project/viper-project/z2_plus/Viper-z2_plus-20190711-v6.6-OFFICIAL.zip",
-      "version": "v6.6"
+      "size": 663356177,
+      "url": "https://master.dl.sourceforge.net/project/viper-project/z2_plus/Viper-z2_plus-20190816-v6.7-OFFICIAL.zip",
+      "version": "v6.7"
     }
   ]
 }
