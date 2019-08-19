@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1564170103",
-      "filename": "Viper-harpia-20190726-v6.6-OFFICIAL.zip",
-      "id": "60153d019ec5af3de4c16cd75f69cad7",
+      "datetime": "1566156287",
+      "filename": "Viper-harpia-20190818-v6.7-OFFICIAL.zip",
+      "id": "5ac2bf0c053046da96ac7bb9a0d28b33",
       "romtype": "OFFICIAL",
-      "size": 506231875,
-      "url": "https://master.dl.sourceforge.net/project/viper-project/harpia/Viper-harpia-20190726-v6.6-OFFICIAL.zip",
-      "version": "v6.6"
+      "size": 505818902,
+      "url": "https://master.dl.sourceforge.net/project/viper-project/harpia/Viper-harpia-20190818-v6.7-OFFICIAL.zip",
+      "version": "v6.7"
     }
   ]
 }

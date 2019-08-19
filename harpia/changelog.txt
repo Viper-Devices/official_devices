@@ -1,4 +1,10 @@
 =============
+6.7 20190818
+=============
+- August security patch
+- Update sources ViperOS from LineageOS
+- Improved perfomance
+=============
 6.6 20190726
 =============
 - July security patch
