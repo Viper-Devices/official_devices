@@ -1,6 +1,18 @@
 =============
 OTA Changelog v6.6
 Date :19/07/2019
+- August Security patch 
+- Viper version 6.7
+- Upstreamed Kernel Version 4.4.187
+- Built with clang 9.0.5
+- New Vendor Implementation and Miui Camera
+- Removed Crap Snap Camera
+- Ota fixed
+=============
+
+=============
+OTA Changelog v6.6
+Date :19/07/2019
 - July Security patch 
 - Viper version 6.6
 - Upstreamed Kernel Version 4.4.185
