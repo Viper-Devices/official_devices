@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1563003652",
-      "filename": "Viper-sakura-20190713-v6.6-OFFICIAL.zip",
-      "id": "cd6dee7bb3108723d20c9066d720987f",
+      "datetime": "1565893633",
+      "filename": "Viper-sakura-20190819-v6.7-OFFICIAL.zip",
+      "id": "f097794dbe6829d0998609a2f1dd55a9",
       "romtype": "OFFICIAL",
-      "size": 771957939,
-      "url": "https://ufpr.dl.sourceforge.net/project/viper-project/sakura/Viper-sakura-20190713-v6.6-OFFICIAL.zip",
-      "version": "v6.6"
+      "size": 769272200,
+      "url": "https://ufpr.dl.sourceforge.net/project/viper-project/sakura/Viper-sakura-20190819-v6.7-OFFICIAL.zip",
+      "version": "v6.7"
     }
   ]
 }
