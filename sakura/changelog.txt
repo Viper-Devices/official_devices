@@ -1,3 +1,8 @@
+## OTA Changelog v6.7 (19 Aug 2019) ##
+- Security patch update to August
+- Upstreamed kernel
+- Updated vendor blobs
+
 ## OTA Changelog v6.6 (12 Jul 2019) ##
 - Security patch updated to July
 - Upstreamed kernel
