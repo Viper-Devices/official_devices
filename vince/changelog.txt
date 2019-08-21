@@ -1,8 +1,7 @@
-## OTA Changelog v6.6 ##
+## OTA Changelog v6.7 ##
 
-- Updated kernel to Dark ages 4.9.185
-- Rebased tree
-- Fixed Charging Light
 - Performance tweaks
+
+
 
 
