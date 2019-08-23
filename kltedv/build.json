@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1563836023",
-      "filename": "Viper-kltedv-20190722-v6.6-OFFICIAL.zip",
-      "id": "f7b1d9b06b05273410b01d8acddef94a",
+      "datetime": "1566452970",
+      "filename": "Viper-kltedv-20190822-v6.7-OFFICIAL.zip",
+      "id": "9e9025dccbd4f649f458eb43c1bb757b",
       "romtype": "OFFICIAL",
-      "size": 530557014,
-      "url": "https://master.dl.sourceforge.net/project/viper-project/kltedv/Viper-kltedv-20190722-v6.6-OFFICIAL.zip",
-      "version": "v6.6"
+      "size": 530260973,
+      "url": "https://master.dl.sourceforge.net/project/viper-project/kltedv/Viper-kltedv-20190822-v6.7-OFFICIAL.zip",
+      "version": "v6.7"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1563838356",
-      "filename": "Viper-klteduos-20190722-v6.6-OFFICIAL.zip",
-      "id": "1cd3d60676f279019894258622f2fe8b",
+      "datetime": "1566450344",
+      "filename": "Viper-klteduos-20190822-v6.7-OFFICIAL.zip",
+      "id": "0a7a65460fdc293328003cf3a483e581",
       "romtype": "OFFICIAL",
-      "size": 530389515,
-      "url": "https://master.dl.sourceforge.net/project/viper-project/klteduos/Viper-klteduos-20190722-v6.6-OFFICIAL.zip",
-      "version": "v6.6"
+      "size": 530192303,
+      "url": "https://master.dl.sourceforge.net/project/viper-project/klteduos/Viper-klteduos-20190822-v6.7-OFFICIAL.zip",
+      "version": "v6.7"
     }
   ]
 }

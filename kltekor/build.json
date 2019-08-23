@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1563863749",
-      "filename": "Viper-kltekor-20190723-v6.6-OFFICIAL.zip",
-      "id": "0e935bd35fd217568e0f9cc086fd202e",
+      "datetime": "1566455972",
+      "filename": "Viper-kltekor-20190822-v6.7-OFFICIAL.zip",
+      "id": "9c7c0317cdf0a12f23181d86363fb962",
       "romtype": "OFFICIAL",
-      "size": 529004396,
-      "url": "https://master.dl.sourceforge.net/project/viper-project/kltekor/Viper-kltekor-20190723-v6.6-OFFICIAL.zip",
-      "version": "v6.6"
+      "size": 528812824,
+      "url": "https://master.dl.sourceforge.net/project/viper-project/kltekor/Viper-kltekor-20190822-v6.7-OFFICIAL.zip",
+      "version": "v6.7"
     }
   ]
 }
