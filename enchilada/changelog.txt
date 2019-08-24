@@ -1,4 +1,27 @@
 =========================
+## OTA Changelog v6.7 ##
+
+- Bumped to v6.7
+- Merged August security patch
+- Merged r_46 tag
+- Updated sources from LineageOS
+- Merged tag pie-gsi from Google
+- Kernel upstreamed to latest .189
+- Compiled with latest clang 9.0.6
+- Switched to Illusion Kernel. Credit goes to @anirudhgupta109
+- Kernel rebased on RZ's kernel. Credit goes to @RenderBroken
+- Using Pixel 3 msm_irqbalance 
+- Enable Wi-Fi MAC randomization 
+- Enable custom audio policy
+- Import CAF bluetooth overlay 
+- Added some cams to auxlist
+- Ignore RSSNR signal level
+- WhatsApp video call now works (but sadly it will be little bit laggy)
+- Merged all source side changes too
+=========================
+
+
+=========================
 ## OTA Changelog v6.4 ##
 
 - Bumped to v6.4
@@ -41,7 +64,7 @@
 ========================
 
 
-=========================
+========================
 ## OTA Changelog v6.2 ##
 
 - Initial build
