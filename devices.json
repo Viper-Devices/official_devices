@@ -32,6 +32,14 @@
         "xda_thread": "https://forum.xda-developers.com/moto-e-2015/development/rom-viperos-moto-e-lte-2015-t3903202"
     },
     {
+        "name": "Moto G LTE",
+        "brand": "Motorola",
+        "codename": "peregrine",
+        "maintainer_name": "Erik Garcia (ECr34T1v3)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6364365",
+        "xda_thread": "https://forum.xda-developers.com/moto-g/4g-development"
+    },
+    {
         "name": "Moto G4 Play",
         "brand": "Motorola",
         "codename": "harpia",
