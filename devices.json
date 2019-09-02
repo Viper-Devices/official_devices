@@ -192,6 +192,14 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-6-pro/development/rom-viperos-redmi-6-pro-t3922312"
     },
     {
+        "name": "Redmi Note 7",
+        "brand": "Xiaomi",
+        "codename": "lavender",
+        "maintainer_name": "VmasterL",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9431555",
+        "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-viperos-project-6-7-t3963550"
+    },
+    {
         "name": "MI A1",
         "brand": "Xiaomi",
         "codename": "tissot",
