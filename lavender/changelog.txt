@@ -1,0 +1,15 @@
+=============
+OTA Changelog v6.7
+
+ROM Source:
+- Merged security patch August
+- Merged tag pie-gsi from Google
+- Update sources ViperOS from LineageOS
+
+Device Source:
+- SELinux enforcing
+- Whatsapp VC lag Fixed
+- SlowMo video recording Fixed
+- Animation Lag improved
+- Minor improvements
+=============
