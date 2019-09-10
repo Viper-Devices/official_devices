@@ -270,5 +270,13 @@
         "maintainer_name": "Harsh Pal",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=9792468",
         "xda_thread": "https://forum.xda-developers.com/yu-yunique/development/official-viper-os-t3940615"
+   },
+   {
+        "name": "J7 Prime",
+        "brand": "samsung",
+        "codename": "on7xelte",
+        "maintainer_name": "Marchetto94",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9968614",
+        "xda_thread": "https://forum.xda-developers.com/galaxy-j7/samsung-galaxy-j7-prime--j7-on-nxt-exynos7870/official-viperos-v6-7-t3966394"
     }
 ]
