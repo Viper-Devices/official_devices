@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1563628751",
-      "filename": "Viper-beryllium-20190720-v6.6-OFFICIAL.zip",
-      "id": "33974e3b5fbd3984a06e3f81692de4bd",
+      "datetime": "1568056421",
+      "filename": "Viper-beryllium-20190909-v6.7-OFFICIAL.zip",
+      "id": "8a1bbf403f8697d5eae830c21d87e94f",
       "romtype": "OFFICIAL",
-      "size": 602571012,
-      "url": "https://master.dl.sourceforge.net/project/viper-project/beryllium/Viper-beryllium-20190720-v6.6-OFFICIAL.zip",
-      "version": "v6.6"
+      "size": 892734945,
+      "url": "https://master.dl.sourceforge.net/project/viper-project/beryllium/Viper-beryllium-20190909-v6.7-OFFICIAL.zip",
+      "version": "v6.7"
     }
   ]
 }
