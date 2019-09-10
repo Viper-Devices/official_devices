@@ -1,0 +1,12 @@
+============================
+ ViperOS v6.7 OTA Changelog
+============================
+
+Changelog:
+
+-Merged: August Security Patch (v9.0.0_r46)
+-Merged: Tag pie-gsi from Google
+-Updated: Sources from LineageOS
+-Removed: Missing hals on manifest
+-Rebased: New Kernel 
+-Fixed: Random Reboot
