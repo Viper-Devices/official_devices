@@ -1,3 +1,5 @@
-Kernel updated
-Source changes
+=============
+OTA Changelog v6.7
 
+- Initial build br @mamutal91
+- Illusion kernel 4.1
