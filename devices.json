@@ -270,7 +270,15 @@
         "maintainer_name": "Harsh Pal",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=9792468",
         "xda_thread": "https://forum.xda-developers.com/yu-yunique/development/official-viper-os-t3940615"
-   },
+    },
+   {
+        "name": "ZTE AXON7",
+        "brand": "ZTE",
+        "codename": "ailsa_ii",
+        "maintainer_name": "raystef66",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=5334294",
+        "xda_thread": "https://forum.xda-developers.com/axon-7/development/rom-viperos-v6-6-t3952746"
+    },
    {
         "name": "J7 Prime",
         "brand": "samsung",
