@@ -88,6 +88,14 @@
         "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-viperos-v6-2-t3916713"
     },
     {
+        "name": "Galaxy J7 Prime",
+        "brand": "Samsung",
+        "codename": "on7xelte",
+        "maintainer_name": "Marchetto94",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9968614",
+        "xda_thread": "https://forum.xda-developers.com/galaxy-j7/samsung-galaxy-j7-prime--j7-on-nxt-exynos7870/official-viperos-v6-7-t3966394"
+    },
+    {
         "name": "Galaxy S5 LTE",
         "brand": "Samsung",
         "codename": "klte",
@@ -278,13 +286,5 @@
         "maintainer_name": "raystef66",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=5334294",
         "xda_thread": "https://forum.xda-developers.com/axon-7/development/rom-viperos-v6-6-t3952746"
-    },
-   {
-        "name": "J7 Prime",
-        "brand": "samsung",
-        "codename": "on7xelte",
-        "maintainer_name": "Marchetto94",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9968614",
-        "xda_thread": "https://forum.xda-developers.com/galaxy-j7/samsung-galaxy-j7-prime--j7-on-nxt-exynos7870/official-viperos-v6-7-t3966394"
     }
 ]
