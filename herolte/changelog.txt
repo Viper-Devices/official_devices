@@ -1,3 +1,7 @@
+## OTA Changelog v6.7 ##
+- Updated system security patch to september
+- Misc performance and stability improvements
+
 ## OTA Changelog v6.4 ##
 - Fixed HWC
 - Updated vendor security patch to march
