@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1568980608",
-      "filename": "Viper-hero2lte-20190920-v6.7-OFFICIAL.zip",
-      "id": "9aafef8799165ebdeebc48b1f03d8f0b",
+      "datetime": "1572132179",
+      "filename": "Viper-hero2lte-20191026-v6.9-OFFICIAL.zip",
+      "id": "5c88a25590dc6fbb2bccd065ffaaef7f",
       "romtype": "OFFICIAL",
-      "size": 626889571,
-      "url": "https://master.dl.sourceforge.net/project/viper-project/hero2lte/Viper-hero2lte-20190920-v6.7-OFFICIAL.zip",
-      "version": "v6.7"
+      "size": 628111451,
+      "url": "https://master.dl.sourceforge.net/project/viper-project/hero2lte/Viper-hero2lte-20191026-v6.9-OFFICIAL.zip",
+      "version": "v6.9"
     }
   ]
 }

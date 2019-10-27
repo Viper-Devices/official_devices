@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1568981925",
-      "filename": "Viper-herolte-20190920-v6.7-OFFICIAL.zip",
-      "id": "f7aa2a506206a4a0ea83ef2df8a5f059",
+      "datetime": "1572142130",
+      "filename": "Viper-herolte-20191027-v6.9-OFFICIAL.zip",
+      "id": "81a4a8034ec3f0ab35f2fddc04b9f8f3",
       "romtype": "OFFICIAL",
-      "size": 627159722,
-      "url": "https://master.dl.sourceforge.net/project/viper-project/herolte/Viper-herolte-20190920-v6.7-OFFICIAL.zip",
-      "version": "v6.7"
+      "size": 628085030,
+      "url": "https://master.dl.sourceforge.net/project/viper-project/herolte/Viper-herolte-20191027-v6.9-OFFICIAL.zip",
+      "version": "v6.9"
     }
   ]
 }

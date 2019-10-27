@@ -1,5 +1,10 @@
+## OTA Changelog v6.9 ##
+- Update to june vendor security patch
+- Update to october system security patch
+- Misc performance and stability improvements
+
 ## OTA Changelog v6.7 ##
-- Updated system security patch to september
+- Update to august system security patch
 - Misc performance and stability improvements
 
 ## OTA Changelog v6.4 ##
